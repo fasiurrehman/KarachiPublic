@@ -9,7 +9,7 @@ def customwrap(s,width=40):
     return "<br>".join(textwrap.wrap(s,width=width))
 
 st.title('Civic')
-df=pd.read_csv("civic.csv")
+df=pd.read_csv(("civic.csv"))
 
 
 cols=df.columns
