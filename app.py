@@ -29,6 +29,7 @@ def count(civic):
             civic=civic[civic[civic.columns[val]]==opts[val-2]]
     outs=[]
     maps=[]
+    abc=[]
     ops=[]
     for col in civic.columns[6:]:
         if ":" not in col:
