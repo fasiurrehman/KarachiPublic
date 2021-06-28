@@ -1,0 +1,737 @@
+,id,What age range are you?,What is your gender?,What estimated range is your household's monthly income?,"Which area are you from? If not from Karachi please select ""Outside Karachi""",How often do you go to Clifton beach?,Which one of the following statements apply to you?,How do you feel regarding the caretaking and evolution of Clifton beach?,How do you feel regarding the caretaking and evolution of Clifton beach?
+0,0,25 - 44 years,Male,"200,001 and above",Ferozabad,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+1,0dup,25 - 44 years,Male,"200,001 and above",Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+2,1,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+3,1dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+4,2,25 - 44 years,Male,"75,001 - 100,000 rupees",Civil Lines,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+5,2dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+6,2dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Civil Lines,,,,"Relief (from climate, from stresses, etc)"
+7,3,25 - 44 years,Female,Prefer not to answer,Outside Karachi,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+8,3dup,25 - 44 years,Female,Prefer not to answer,Outside Karachi,,,,"Celebrating (personal milestones, special occasions, etc)"
+9,3dup,25 - 44 years,Female,Prefer not to answer,Outside Karachi,,,,Tourism
+10,4,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+11,4dup,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,"Activity (exercising, sports, running, etc)"
+12,4dup,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+13,5,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+14,5dup,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+15,5dup,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+16,6,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+17,6dup,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+18,7,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+19,7dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+20,7dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+21,8,25 - 44 years,Female,"175,000 - 200,000 rupees",Ferozabad,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+22,8dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Ferozabad,,,,Most accessible (public beach closest to urban Karachi)
+23,8dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+24,9,15 - 24 years,Prefer not to answer,"125,001 - 150,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+25,9dup,15 - 24 years,Prefer not to answer,"125,001 - 150,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+26,9dup,15 - 24 years,Prefer not to answer,"125,001 - 150,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+27,10,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+28,10dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+29,10dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+30,11,45 years and above,Male,"100,001 - 125,000 rupees",Malir Cantonment,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Positively,"Commerce (for work, for shopping, for restaurants, etc)"
+31,12,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+32,12dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+33,12dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+34,13,15 - 24 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+35,13dup,15 - 24 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,,,,Most accessible (public beach closest to urban Karachi)
+36,13dup,15 - 24 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+37,14,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+38,14dup,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,"Celebrating (personal milestones, special occasions, etc)"
+39,15,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+40,15dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+41,16,15 - 24 years,Male,"200,001 and above",Faisal Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+42,16dup,15 - 24 years,Male,"200,001 and above",Faisal Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+43,17,15 - 24 years,Male,"100,001 - 125,000 rupees",Airport,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+44,18,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+45,18dup,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+46,18dup,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+47,19,25 - 44 years,Male,"200,001 and above",Shah Faisal,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+48,19dup,25 - 44 years,Male,"200,001 and above",Shah Faisal,,,,"Relief (from climate, from stresses, etc)"
+49,20,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+50,21,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+51,21dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+52,21dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+53,22,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+54,22dup,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,"Activity (exercising, sports, running, etc)"
+55,22dup,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+56,23,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+57,23dup,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+58,23dup,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Tourism
+59,24,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+60,24dup,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+61,24dup,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+62,25,15 - 24 years,Male,"125,001 - 150,000 rupees",Faisal Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+63,25dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Faisal Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+64,25dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Faisal Cantonment,,,,Special events held in the vicinity
+65,26,15 - 24 years,Male,"100,001 - 125,000 rupees",New Karachi Town,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+66,26dup,15 - 24 years,Male,"100,001 - 125,000 rupees",New Karachi Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+67,26dup,15 - 24 years,Male,"100,001 - 125,000 rupees",New Karachi Town,,,,"Relief (from climate, from stresses, etc)"
+68,27,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+69,27dup,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+70,28,25 - 44 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,Never go there to enjoy or anything. It is always when I am passing through DHA I take the sea view road just to drive past it. Last I went to that beach was around 6 years back when our class decided to stop there for a few minutes after a batch breakfast nearby.
+71,29,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+72,29dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+73,29dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+74,30,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+75,30dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+76,30dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+77,31,25 - 44 years,Male,"200,001 and above",Outside Karachi,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+78,32,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,Due to my kid's love for the beach.
+79,33,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Activity (exercising, sports, running, etc)"
+80,34,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+81,35,45 years and above,Female,"175,000 - 200,000 rupees",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+82,35dup,45 years and above,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+83,35dup,45 years and above,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+84,36,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+85,36dup,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+86,36dup,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+87,37,15 - 24 years,Male,"75,001 - 100,000 rupees",Outside Karachi,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+88,38,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+89,38dup,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,"Activity (exercising, sports, running, etc)"
+90,38dup,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+91,39,25 - 44 years,Female,"200,001 and above",Outside Karachi,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+92,39dup,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,Tourism
+93,40,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+94,41,45 years and above,Male,"150,001 - 175,000 rupees",Clifton Cantonment,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Activity (exercising, sports, running, etc)"
+95,42,25 - 44 years,Male,Prefer not to answer,Nazimabad,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+96,42dup,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,Most accessible (public beach closest to urban Karachi)
+97,42dup,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,Special events held in the vicinity
+98,43,25 - 44 years,Male,"75,001 - 100,000 rupees",Garden,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+99,43dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Garden,,,,"Relief (from climate, from stresses, etc)"
+100,44,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+101,44dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+102,44dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+103,45,45 years and above,Female,Prefer not to answer,Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+104,45dup,45 years and above,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+105,45dup,45 years and above,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Tourism
+106,46,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+107,46dup,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+108,46dup,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+109,47,45 years and above,Female,"75,001 - 100,000 rupees",,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+110,48,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+111,48dup,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+112,48dup,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,,,,Special events held in the vicinity
+113,49,45 years and above,Male,"200,001 and above",North Nazimabad Town,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,Tourism
+114,50,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+115,50dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+116,51,45 years and above,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+117,52,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulberg,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+118,52dup,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulberg,,,,Most accessible (public beach closest to urban Karachi)
+119,52dup,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulberg,,,,"Celebrating (personal milestones, special occasions, etc)"
+120,53,25 - 44 years,Female,"200,001 and above",Outside Karachi,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+121,53dup,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,Most accessible (public beach closest to urban Karachi)
+122,53dup,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+123,54,45 years and above,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+124,54dup,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+125,55,25 - 44 years,Female,"200,001 and above",Ferozabad,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+126,55dup,25 - 44 years,Female,"200,001 and above",Ferozabad,,,,Most accessible (public beach closest to urban Karachi)
+127,55dup,25 - 44 years,Female,"200,001 and above",Ferozabad,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+128,56,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+129,56dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+130,56dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,"Relief (from climate, from stresses, etc)"
+131,57,25 - 44 years,Female,"175,000 - 200,000 rupees",Korangi,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+132,57dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Korangi,,,,Most accessible (public beach closest to urban Karachi)
+133,57dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Korangi,,,,"Relief (from climate, from stresses, etc)"
+134,58,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Celebrating (personal milestones, special occasions, etc)"
+135,59,15 - 24 years,Female,"125,001 - 150,000 rupees",Outside Karachi,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+136,59dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+137,59dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Outside Karachi,,,,Tourism
+138,60,15 - 24 years,Male,"175,000 - 200,000 rupees",Shah Faisal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+139,60dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Shah Faisal,,,,Most accessible (public beach closest to urban Karachi)
+140,60dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Shah Faisal,,,,"Relief (from climate, from stresses, etc)"
+141,61,15 - 24 years,Male,"200,001 and above",North Nazimabad Town,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,,"Leisure (unwinding, walking, being with loved ones, etc)"
+142,61dup,15 - 24 years,Male,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+143,61dup,15 - 24 years,Male,"200,001 and above",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+144,62,45 years and above,Male,"200,001 and above",Saddar,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+145,63,25 - 44 years,Male,"200,001 and above",,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+146,64,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+147,64dup,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+148,65,25 - 44 years,Male,"100,001 - 125,000 rupees",Gulzar-e-Hijri,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+149,66,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+150,66dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Special events held in the vicinity
+151,67,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+152,67dup,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+153,67dup,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+154,68,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+155,68dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,"Celebrating (personal milestones, special occasions, etc)"
+156,68dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+157,69,25 - 44 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+158,70,45 years and above,Male,"125,001 - 150,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,Just driving on seaview road as its a pleasant drive and not too far from where i live
+159,71,15 - 24 years,Female,"75,001 - 100,000 rupees",Ferozabad,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+160,71dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,Most accessible (public beach closest to urban Karachi)
+161,71dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+162,72,25 - 44 years,Male,"50,001 - 75,000 rupees",Civil Lines,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+163,72dup,25 - 44 years,Male,"50,001 - 75,000 rupees",Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+164,72dup,25 - 44 years,Male,"50,001 - 75,000 rupees",Civil Lines,,,,"Relief (from climate, from stresses, etc)"
+165,73,25 - 44 years,Male,"200,001 and above",Outside Karachi,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Negative,"Relief (from climate, from stresses, etc)"
+166,73dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+167,73dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,Special events held in the vicinity
+168,74,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+169,74dup,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,"Relief (from climate, from stresses, etc)"
+170,74dup,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+171,75,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+172,75dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+173,75dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+174,76,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+175,77,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+176,78,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulzar-e-Hijri,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+177,78dup,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulzar-e-Hijri,,,,"Celebrating (personal milestones, special occasions, etc)"
+178,78dup,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulzar-e-Hijri,,,,"Relief (from climate, from stresses, etc)"
+179,79,25 - 44 years,Female,"200,001 and above",Gulberg,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Relief (from climate, from stresses, etc)"
+180,80,25 - 44 years,Female,"175,000 - 200,000 rupees",Saddar,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+181,80dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Saddar,,,,Most accessible (public beach closest to urban Karachi)
+182,80dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Saddar,,,,"Relief (from climate, from stresses, etc)"
+183,81,25 - 44 years,Female,Prefer not to answer,Civil Lines,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+184,81dup,25 - 44 years,Female,Prefer not to answer,Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+185,81dup,25 - 44 years,Female,Prefer not to answer,Civil Lines,,,,"Relief (from climate, from stresses, etc)"
+186,82,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+187,83,25 - 44 years,Female,Prefer not to answer,Faisal Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+188,83dup,25 - 44 years,Female,Prefer not to answer,Faisal Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+189,83dup,25 - 44 years,Female,Prefer not to answer,Faisal Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+190,84,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Activity (exercising, sports, running, etc)"
+191,85,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+192,85dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+193,86,25 - 44 years,Male,"200,001 and above",Malir Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+194,86dup,25 - 44 years,Male,"200,001 and above",Malir Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+195,86dup,25 - 44 years,Male,"200,001 and above",Malir Cantonment,,,,"Relief (from climate, from stresses, etc)"
+196,87,45 years and above,Male,"175,000 - 200,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+197,88,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+198,89,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+199,89dup,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+200,89dup,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,,,,Special events held in the vicinity
+201,90,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+202,90dup,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+203,90dup,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+204,91,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+205,91dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+206,91dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+207,92,25 - 44 years,Prefer not to answer,"25,001 - 50,000 rupees",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+208,92dup,25 - 44 years,Prefer not to answer,"25,001 - 50,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+209,92dup,25 - 44 years,Prefer not to answer,"25,001 - 50,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+210,93,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+211,93dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+212,93dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+213,94,15 - 24 years,Male,Prefer not to answer,Orangi,Not often - I prefer other beaches,,Negative,Tourism
+214,95,15 - 24 years,Female,"100,001 - 125,000 rupees",Liaquatabad,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+215,95dup,15 - 24 years,Female,"100,001 - 125,000 rupees",Liaquatabad,,,,"Relief (from climate, from stresses, etc)"
+216,96,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Negative,I search for all kinds of creatures there. As a naturalist it's the only part of the city which is wild. 
+217,97,15 - 24 years,Female,"175,000 - 200,000 rupees",Garden,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+218,97dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Garden,,,,Most accessible (public beach closest to urban Karachi)
+219,98,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+220,98dup,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"I usually take my cousins when they travel from Punjab, because they really want to go there and we live very cose to Sea View."
+221,99,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Relief (from climate, from stresses, etc)"
+222,99dup,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+223,100,25 - 44 years,Male,"100,001 - 125,000 rupees",Outside Karachi,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Activity (exercising, sports, running, etc)"
+224,100dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Outside Karachi,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+225,100dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Outside Karachi,,,,Special events held in the vicinity
+226,101,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulberg,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+227,101dup,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulberg,,,,"Relief (from climate, from stresses, etc)"
+228,102,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+229,102dup,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+230,102dup,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+231,103,15 - 24 years,Male,"200,001 and above",Nazimabad,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+232,103dup,15 - 24 years,Male,"200,001 and above",Nazimabad,,,,Most accessible (public beach closest to urban Karachi)
+233,103dup,15 - 24 years,Male,"200,001 and above",Nazimabad,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+234,104,15 - 24 years,Female,"200,001 and above",Garden,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (unwinding, walking, being with loved ones, etc)"
+235,104dup,15 - 24 years,Female,"200,001 and above",Garden,,,,Most accessible (public beach closest to urban Karachi)
+236,104dup,15 - 24 years,Female,"200,001 and above",Garden,,,,Hanging out with friends 
+237,105,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+238,105dup,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+239,106,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+240,106dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+241,106dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+242,107,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+243,108,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+244,108dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,"Celebrating (personal milestones, special occasions, etc)"
+245,108dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,"Relief (from climate, from stresses, etc)"
+246,109,25 - 44 years,Female,"75,001 - 100,000 rupees",Faisal Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (unwinding, walking, being with loved ones, etc)"
+247,109dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Faisal Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+248,109dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Faisal Cantonment,,,,"Relief (from climate, from stresses, etc)"
+249,110,25 - 44 years,Female,"75,001 - 100,000 rupees",Ferozabad,Frequently (multiple times a month),,Negative,Most accessible (public beach closest to urban Karachi)
+250,110dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+251,110dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,I feel at most comfort by the sea 
+252,111,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+253,111dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+254,111dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+255,112,15 - 24 years,Male,"50,001 - 75,000 rupees",North Nazimabad Town,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+256,112dup,15 - 24 years,Male,"50,001 - 75,000 rupees",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+257,113,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+258,113dup,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+259,114,15 - 24 years,Male,"75,001 - 100,000 rupees",Liaquatabad,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+260,114dup,15 - 24 years,Male,"75,001 - 100,000 rupees",Liaquatabad,,,,Most accessible (public beach closest to urban Karachi)
+261,115,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+262,115dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+263,116,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Commerce (for work, for shopping, for restaurants, etc)"
+264,117,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+265,117dup,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+266,118,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+267,118dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+268,119,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Negative,Beach cleanup
+269,120,15 - 24 years,Female,Prefer not to answer,,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Positively,Most accessible (public beach closest to urban Karachi)
+270,121,15 - 24 years,Female,Prefer not to answer,New Karachi Town,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+271,122,15 - 24 years,Male,"200,001 and above",Malir Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+272,122dup,15 - 24 years,Male,"200,001 and above",Malir Cantonment,,,,"Relief (from climate, from stresses, etc)"
+273,123,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+274,124,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,Drive through for senior citizens in family
+275,125,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,Drive through for senior citizens in family
+276,126,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Positively,"Activity (exercising, sports, running, etc)"
+277,126dup,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,"Relief (from climate, from stresses, etc)"
+278,126dup,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,Tourism
+279,127,15 - 24 years,Male,"125,001 - 150,000 rupees",Outside Karachi,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Relief (from climate, from stresses, etc)"
+280,127dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Outside Karachi,,,,Tourism
+281,128,15 - 24 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+282,129,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+283,129dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+284,129dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Special events held in the vicinity
+285,130,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+286,130dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+287,130dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+288,131,25 - 44 years,Male,Prefer not to answer,Outside Karachi,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+289,132,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+290,132dup,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+291,132dup,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+292,133,45 years and above,Male,"200,001 and above",Faisal Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+293,133dup,45 years and above,Male,"200,001 and above",Faisal Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+294,133dup,45 years and above,Male,"200,001 and above",Faisal Cantonment,,,,Special events held in the vicinity
+295,134,25 - 44 years,Male,"100,001 - 125,000 rupees",North Nazimabad Town,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+296,135,25 - 44 years,Female,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Celebrating (personal milestones, special occasions, etc)"
+297,136,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+298,136dup,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+299,136dup,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+300,137,15 - 24 years,Male,"200,001 and above",Outside Karachi,I have never been to Clifton beach,,,"Leisure (walking, being with loved ones, etc)"
+301,137dup,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,Most accessible (public beach closest to urban Karachi)
+302,137dup,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+303,138,15 - 24 years,Male,"200,001 and above",Outside Karachi,I have never been to Clifton beach,,,"Leisure (walking, being with loved ones, etc)"
+304,138dup,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,Most accessible (public beach closest to urban Karachi)
+305,138dup,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+306,139,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Positively,"Activity (exercising, sports, running, etc)"
+307,139dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+308,139dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+309,140,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+310,140dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,"Celebrating (personal milestones, special occasions, etc)"
+311,140dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+312,141,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+313,142,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+314,142dup,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Celebrating (personal milestones, special occasions, etc)"
+315,142dup,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+316,143,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,I have never been to Clifton beach,I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+317,143dup,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,"Celebrating (personal milestones, special occasions, etc)"
+318,143dup,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Tourism
+319,144,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+320,144dup,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+321,144dup,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+322,145,15 - 24 years,Prefer not to answer,"25,001 - 50,000 rupees",Lyari,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Relief (from climate, from stresses, etc)"
+323,146,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+324,146dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+325,147,15 - 24 years,Female,Prefer not to answer,Saddar,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+326,148,15 - 24 years,Female,"100,001 - 125,000 rupees",Malir Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Celebrating (personal milestones, special occasions, etc)"
+327,149,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Relief (from climate, from stresses, etc)"
+328,150,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+329,150dup,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,"Activity (exercising, sports, running, etc)"
+330,150dup,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+331,151,15 - 24 years,Male,"75,001 - 100,000 rupees",Saddar,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+332,151dup,15 - 24 years,Male,"75,001 - 100,000 rupees",Saddar,,,,Most accessible (public beach closest to urban Karachi)
+333,151dup,15 - 24 years,Male,"75,001 - 100,000 rupees",Saddar,,,,"Relief (from climate, from stresses, etc)"
+334,152,15 - 24 years,Male,"50,001 - 75,000 rupees",Mauripur,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Positively,"Relief (from climate, from stresses, etc)"
+335,153,15 - 24 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+336,153dup,15 - 24 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+337,153dup,15 - 24 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+338,154,15 - 24 years,Male,"125,001 - 150,000 rupees",Saddar,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+339,154dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Saddar,,,,"Relief (from climate, from stresses, etc)"
+340,154dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Saddar,,,,Tourism
+341,155,15 - 24 years,Female,Prefer not to answer,Outside Karachi,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+342,155dup,15 - 24 years,Female,Prefer not to answer,Outside Karachi,,,,Most accessible (public beach closest to urban Karachi)
+343,155dup,15 - 24 years,Female,Prefer not to answer,Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+344,156,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+345,157,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+346,157dup,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+347,157dup,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,"Celebrating (personal milestones, special occasions, etc)"
+348,158,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+349,158dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+350,158dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+351,159,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+352,160,25 - 44 years,Male,"100,001 - 125,000 rupees",Landhi,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+353,160dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Landhi,,,,"Relief (from climate, from stresses, etc)"
+354,161,15 - 24 years,Female,"25,001 - 50,000 rupees",Garden,Not often (few times in many years),I only visit the beach with company and only before sunset,,Most accessible (public beach closest to urban Karachi)
+355,161dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Garden,,,,"Relief (from climate, from stresses, etc)"
+356,162,15 - 24 years,Male,Prefer not to answer,Gulberg,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Relief (from climate, from stresses, etc)"
+357,163,15 - 24 years,Female,"75,001 - 100,000 rupees",Malir Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+358,163dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Malir Cantonment,,,,"Relief (from climate, from stresses, etc)"
+359,163dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Malir Cantonment,,,,Tourism
+360,164,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,Most accessible (public beach closest to urban Karachi)
+361,164dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+362,164dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,Tourism
+363,165,15 - 24 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+364,165dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),,,,"Celebrating (personal milestones, special occasions, etc)"
+365,165dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),,,,"Relief (from climate, from stresses, etc)"
+366,166,15 - 24 years,Female,"100,001 - 125,000 rupees",Model Colony,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+367,167,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+368,167dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+369,167dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+370,168,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+371,169,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+372,169dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,Most accessible (public beach closest to urban Karachi)
+373,169dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+374,170,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+375,171,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+376,171dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,,,,"Relief (from climate, from stresses, etc)"
+377,171dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,,,,Sunsets
+378,172,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+379,172dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,Most accessible (public beach closest to urban Karachi)
+380,172dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+381,173,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+382,173dup,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+383,173dup,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+384,174,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+385,175,25 - 44 years,Male,Not sure,Shah Faisal,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+386,175dup,25 - 44 years,Male,Not sure,Shah Faisal,,,,"Relief (from climate, from stresses, etc)"
+387,176,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+388,176dup,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+389,176dup,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+390,177,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+391,177dup,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+392,177dup,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,"Relief (from climate, from stresses, etc)"
+393,178,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+394,179,25 - 44 years,Female,Prefer not to answer,,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Relief (from climate, from stresses, etc)"
+395,180,15 - 24 years,Female,"50,001 - 75,000 rupees",Ferozabad,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+396,180dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Ferozabad,,,,"Activity (exercising, sports, running, etc)"
+397,180dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+398,181,15 - 24 years,Female,Prefer not to answer,,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,Mcdonalds
+399,182,15 - 24 years,Female,Prefer not to answer,Korangi Creek Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+400,182dup,15 - 24 years,Female,Prefer not to answer,Korangi Creek Cantonment,,,,"Activity (exercising, sports, running, etc)"
+401,182dup,15 - 24 years,Female,Prefer not to answer,Korangi Creek Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+402,183,25 - 44 years,Male,"200,001 and above",Outside Karachi,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+403,183dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,Tourism
+404,184,45 years and above,Male,"200,001 and above",North Nazimabad Town,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+405,184dup,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,"Activity (exercising, sports, running, etc)"
+406,184dup,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+407,185,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,,"Relief (from climate, from stresses, etc)"
+408,186,45 years and above,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+409,187,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,,"Relief (from climate, from stresses, etc)"
+410,188,45 years and above,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+411,188dup,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+412,189,45 years and above,Male,"200,001 and above",,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+413,190,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+414,190dup,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+415,190dup,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+416,191,45 years and above,Male,"200,001 and above",North Nazimabad Town,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+417,191dup,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,"Activity (exercising, sports, running, etc)"
+418,191dup,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,Most accessible (public beach closest to urban Karachi)
+419,192,25 - 44 years,Male,"200,001 and above",Outside Karachi,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+420,192dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,Tourism
+421,193,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+422,193dup,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+423,193dup,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+424,194,25 - 44 years,Male,"200,001 and above",Outside Karachi,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+425,194dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,Tourism
+426,195,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+427,195dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+428,195dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+429,196,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Negative,"Activity (exercising, sports, running, etc)"
+430,196dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+431,196dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+432,197,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+433,197dup,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+434,197dup,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+435,198,45 years and above,Female,Prefer not to answer,Ferozabad,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+436,198dup,45 years and above,Female,Prefer not to answer,Ferozabad,,,,Most accessible (public beach closest to urban Karachi)
+437,198dup,45 years and above,Female,Prefer not to answer,Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+438,199,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+439,200,25 - 44 years,Male,"200,001 and above",Civil Lines,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,Research/observation
+440,201,25 - 44 years,Female,Prefer not to answer,Shah Faisal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+441,201dup,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,Most accessible (public beach closest to urban Karachi)
+442,201dup,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+443,202,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+444,202dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+445,203,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+446,203dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+447,203dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+448,204,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+449,204dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+450,204dup,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+451,205,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+452,205dup,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+453,205dup,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,"Relief (from climate, from stresses, etc)"
+454,206,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Relief (from climate, from stresses, etc)"
+455,207,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+456,207dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+457,207dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,,"Relief (from climate, from stresses, etc)"
+458,208,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+459,208dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+460,208dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+461,209,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+462,209dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+463,209dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+464,210,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+465,210dup,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+466,211,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,Most accessible (public beach closest to urban Karachi)
+467,211dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+468,211dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,Enjoy dipping feet in the water 
+469,212,25 - 44 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+470,212dup,25 - 44 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+471,213,15 - 24 years,Prefer not to answer,"200,001 and above",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+472,213dup,15 - 24 years,Prefer not to answer,"200,001 and above",Gulshan-e-Iqbal,,,,Tourism
+473,214,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+474,214dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+475,214dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,Special events held in the vicinity
+476,215,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+477,215dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+478,215dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,Special events held in the vicinity
+479,216,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+480,216dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+481,217,45 years and above,Male,Above,Outside Karachi,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Positively,Tourism
+482,218,25 - 44 years,Male,"25,001 - 50,000 rupees",North Nazimabad Town,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Positively,"Relief (from climate, from stresses, etc)"
+483,219,25 - 44 years,Male,"200,001 and above",Outside Karachi,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+484,219dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+485,220,25 - 44 years,Female,"125,001 - 150,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+486,220dup,25 - 44 years,Female,"125,001 - 150,000 rupees",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+487,220dup,25 - 44 years,Female,"125,001 - 150,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+488,221,15 - 24 years,Female,Prefer not to answer,Bin Qasim,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+489,221dup,15 - 24 years,Female,Prefer not to answer,Bin Qasim,,,,Most accessible (public beach closest to urban Karachi)
+490,221dup,15 - 24 years,Female,Prefer not to answer,Bin Qasim,,,,"Relief (from climate, from stresses, etc)"
+491,222,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+492,222dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,"Relief (from climate, from stresses, etc)"
+493,222dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,"Visiting nearby family, going to nearby restaurant "
+494,223,25 - 44 years,Male,"175,000 - 200,000 rupees",Garden,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+495,223dup,25 - 44 years,Male,"175,000 - 200,000 rupees",Garden,,,,Most accessible (public beach closest to urban Karachi)
+496,223dup,25 - 44 years,Male,"175,000 - 200,000 rupees",Garden,,,,"Relief (from climate, from stresses, etc)"
+497,224,15 - 24 years,Female,Prefer not to answer,Ferozabad,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+498,224dup,15 - 24 years,Female,Prefer not to answer,Ferozabad,,,,Most accessible (public beach closest to urban Karachi)
+499,225,15 - 24 years,Female,"200,001 and above",Civil Lines,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+500,225dup,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+501,225dup,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,"Relief (from climate, from stresses, etc)"
+502,226,15 - 24 years,Female,"125,001 - 150,000 rupees",Shah Faisal,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+503,226dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Shah Faisal,,,,Most accessible (public beach closest to urban Karachi)
+504,226dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Shah Faisal,,,,"Relief (from climate, from stresses, etc)"
+505,227,15 - 24 years,Male,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+506,227dup,15 - 24 years,Male,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+507,227dup,15 - 24 years,Male,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+508,228,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+509,229,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+510,229dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+511,230,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+512,230dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+513,230dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+514,231,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+515,232,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+516,232dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Special events held in the vicinity
+517,233,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+518,233dup,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+519,233dup,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+520,234,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,"Celebrating (personal milestones, special occasions, etc)"
+521,235,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+522,235dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Special events held in the vicinity
+523,236,15 - 24 years,Female,"150,001 - 175,000 rupees",North Nazimabad Town,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,nan
+524,237,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Relief (from climate, from stresses, etc)"
+525,238,25 - 44 years,Male,Prefer not to answer,Ferozabad,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,,Most accessible (public beach closest to urban Karachi)
+526,239,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Activity (exercising, sports, running, etc)"
+527,239dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+528,239dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+529,240,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,Karts
+530,241,45 years and above,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+531,241dup,45 years and above,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+532,242,15 - 24 years,Female,"150,001 - 175,000 rupees",North Nazimabad Town,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,nan
+533,243,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+534,243dup,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+535,243dup,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+536,244,25 - 44 years,Male,"200,001 and above",Civil Lines,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,If my children want to see the beach and I can't take them to a hut at sandspit/ hawksbay./tushan
+537,245,15 - 24 years,Prefer not to answer,"200,001 and above",Outside Karachi,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+538,245dup,15 - 24 years,Prefer not to answer,"200,001 and above",Outside Karachi,,,,"Celebrating (personal milestones, special occasions, etc)"
+539,245dup,15 - 24 years,Prefer not to answer,"200,001 and above",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+540,246,25 - 44 years,Female,"200,001 and above",Civil Lines,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+541,246dup,25 - 44 years,Female,"200,001 and above",Civil Lines,,,,"Relief (from climate, from stresses, etc)"
+542,246dup,25 - 44 years,Female,"200,001 and above",Civil Lines,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+543,247,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+544,247dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+545,247dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+546,248,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+547,248dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+548,248dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+549,249,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+550,249dup,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+551,249dup,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+552,250,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulzar-e-Hijri,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+553,250dup,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,,Most accessible (public beach closest to urban Karachi)
+554,250dup,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,,instagram pe pictures dalni hoti hain doston ko.
+555,251,15 - 24 years,Female,"200,001 and above",Gulzar-e-Hijri,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+556,251dup,15 - 24 years,Female,"200,001 and above",Gulzar-e-Hijri,,,,Most accessible (public beach closest to urban Karachi)
+557,251dup,15 - 24 years,Female,"200,001 and above",Gulzar-e-Hijri,,,,"Relief (from climate, from stresses, etc)"
+558,252,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+559,252dup,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+560,252dup,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+561,253,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+562,253dup,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+563,254,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Positively,"Activity (exercising, sports, running, etc)"
+564,255,25 - 44 years,Female,"200,001 and above",,Not often - I prefer other beaches,,Positively,nan
+565,256,25 - 44 years,Male,"Up to 25,000 rupees",Outside Karachi,I have never been to Clifton beach,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+566,257,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+567,257dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+568,258,15 - 24 years,Male,"50,001 - 75,000 rupees",,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Positively,"Relief (from climate, from stresses, etc)"
+569,259,25 - 44 years,Male,"100,001 - 125,000 rupees",Civil Lines,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+570,259dup,25 - 44 years,Male,"100,001 - 125,000 rupees",Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+571,260,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+572,260dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+573,260dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+574,261,25 - 44 years,Male,Prefer not to answer. No option for DHA in the question below?,Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+575,262,15 - 24 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+576,262dup,15 - 24 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+577,262dup,15 - 24 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+578,263,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+579,263dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+580,264,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+581,264dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,Most accessible (public beach closest to urban Karachi)
+582,264dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,"Relief (from climate, from stresses, etc)"
+583,265,15 - 24 years,Male,"Up to 25,000 rupees",North Nazimabad Town,Not often (few times in many years),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+584,265dup,15 - 24 years,Male,"Up to 25,000 rupees",North Nazimabad Town,,,,"Activity (exercising, sports, running, etc)"
+585,266,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+586,266dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Celebrating (personal milestones, special occasions, etc)"
+587,266dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+588,267,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+589,267dup,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+590,267dup,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,"Relief (from climate, from stresses, etc)"
+591,268,15 - 24 years,Male,"100,001 - 125,000 rupees",Garden,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+592,268dup,15 - 24 years,Male,"100,001 - 125,000 rupees",Garden,,,,"Activity (exercising, sports, running, etc)"
+593,268dup,15 - 24 years,Male,"100,001 - 125,000 rupees",Garden,,,,Most accessible (public beach closest to urban Karachi)
+594,269,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+595,269dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+596,269dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Tourism
+597,270,15 - 24 years,Female,"200,001 and above",Malir Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+598,270dup,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,"Relief (from climate, from stresses, etc)"
+599,271,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,"Relief (from climate, from stresses, etc)"
+600,272,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+601,272dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+602,272dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+603,273,25 - 44 years,Male,"50,001 - 75,000 rupees",Karachi Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+604,273dup,25 - 44 years,Male,"50,001 - 75,000 rupees",Karachi Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+605,274,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+606,274dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+607,274dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,For a drive 
+608,275,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+609,275dup,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+610,275dup,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+611,276,25 - 44 years,Male,"Up to 25,000 rupees",Gulzar-e-Hijri,Frequently (multiple times a month),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+612,277,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Positively,Most accessible (public beach closest to urban Karachi)
+613,277dup,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+614,277dup,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,,,,Special events held in the vicinity
+615,278,25 - 44 years,Female,"200,001 and above",Outside Karachi,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+616,278dup,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,Most accessible (public beach closest to urban Karachi)
+617,278dup,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,"Relief (from climate, from stresses, etc)"
+618,279,15 - 24 years,Female,"200,001 and above",Gulberg,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+619,279dup,15 - 24 years,Female,"200,001 and above",Gulberg,,,,"Relief (from climate, from stresses, etc)"
+620,280,25 - 44 years,Male,"125,001 - 150,000 rupees",Garden,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+621,281,25 - 44 years,Male,"100,001 - 125,000 rupees",Model Colony,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+622,282,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+623,282dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+624,282dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+625,283,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+626,283dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+627,284,25 - 44 years,Male,"200,001 and above",Bin Qasim,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,Photography
+628,285,45 years and above,Female,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+629,285dup,45 years and above,Female,Prefer not to answer,Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+630,285dup,45 years and above,Female,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+631,286,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,Tourism
+632,287,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+633,287dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+634,287dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,To connect with Nature 
+635,288,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+636,288dup,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+637,289,25 - 44 years,Female,"Up to 25,000 rupees",Malir Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Relief (from climate, from stresses, etc)"
+638,290,15 - 24 years,Male,"Up to 25,000 rupees",Gulberg,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+639,290dup,15 - 24 years,Male,"Up to 25,000 rupees",Gulberg,,,,Most accessible (public beach closest to urban Karachi)
+640,290dup,15 - 24 years,Male,"Up to 25,000 rupees",Gulberg,,,,"Relief (from climate, from stresses, etc)"
+641,291,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+642,291dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+643,291dup,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+644,292,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,"Relief (from climate, from stresses, etc)"
+645,293,25 - 44 years,Female,"200,001 and above",Civil Lines,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+646,294,15 - 24 years,Female,"200,001 and above",Malir Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+647,295,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Commerce (for work, for shopping, for restaurants, etc)"
+648,295dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Special events held in the vicinity
+649,296,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Relief (from climate, from stresses, etc)"
+650,297,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+651,297dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,"Relief (from climate, from stresses, etc)"
+652,297dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,Special events held in the vicinity
+653,298,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Negative,"Activity (exercising, sports, running, etc)"
+654,299,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,Most accessible (public beach closest to urban Karachi)
+655,299dup,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+656,300,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+657,300dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+658,300dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+659,301,25 - 44 years,Male,"50,001 - 75,000 rupees",Garden,Not often (few times in many years),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+660,301dup,25 - 44 years,Male,"50,001 - 75,000 rupees",Garden,,,,"Relief (from climate, from stresses, etc)"
+661,301dup,25 - 44 years,Male,"50,001 - 75,000 rupees",Garden,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+662,302,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+663,302dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+664,302dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Special events held in the vicinity
+665,303,25 - 44 years,Male,Prefer not to answer,Ferozabad,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+666,303dup,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,"Relief (from climate, from stresses, etc)"
+667,303dup,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,Kids live the horse and dirt bike ride on the beach
+668,304,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+669,304dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+670,305,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+671,305dup,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+672,305dup,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,Special events held in the vicinity
+673,306,25 - 44 years,Female,"100,001 - 125,000 rupees",Korangi,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+674,306dup,25 - 44 years,Female,"100,001 - 125,000 rupees",Korangi,,,,"Relief (from climate, from stresses, etc)"
+675,307,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Positively,"Commerce (for work, for shopping, for restaurants, etc)"
+676,307dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Dog walking
+677,308,25 - 44 years,Female,"150,001 - 175,000 rupees",Nazimabad,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+678,308dup,25 - 44 years,Female,"150,001 - 175,000 rupees",Nazimabad,,,,Most accessible (public beach closest to urban Karachi)
+679,308dup,25 - 44 years,Female,"150,001 - 175,000 rupees",Nazimabad,,,,"Relief (from climate, from stresses, etc)"
+680,309,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+681,309dup,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+682,309dup,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+683,310,25 - 44 years,Male,"50,001 - 75,000 rupees",Nazimabad,Frequently (multiple times a month),,Positively,"Relief (from climate, from stresses, etc)"
+684,311,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+685,311dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+686,311dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+687,312,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Activity (exercising, sports, running, etc)"
+688,312dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+689,312dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+690,313,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,Often (multiple times in a year),I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+691,313dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+692,313dup,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+693,314,25 - 44 years,Male,"125,001 - 150,000 rupees",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+694,314dup,25 - 44 years,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+695,315,15 - 24 years,Prefer not to answer,Prefer not to answer,,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+696,315dup,15 - 24 years,Prefer not to answer,Prefer not to answer,,,,,Most accessible (public beach closest to urban Karachi)
+697,316,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Negative,For a nice view while having ice-cream with friends while sitting in the car 
+698,317,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Positively,Most accessible (public beach closest to urban Karachi)
+699,318,25 - 44 years,Male,"200,001 and above",Outside Karachi,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,Most accessible (public beach closest to urban Karachi)
+700,318dup,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+701,319,45 years and above,Male,Prefer not to answer,Gadap,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+702,320,15 - 24 years,Female,"150,001 - 175,000 rupees",Korangi Creek Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Commerce (for work, for shopping, for restaurants, etc)"
+703,321,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Activity (exercising, sports, running, etc)"
+704,322,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Often (multiple times in a year),I only visit the beach with company at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+705,322dup,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+706,323,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,Often (multiple times in a year),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+707,323dup,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+708,323dup,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+709,324,15 - 24 years,Female,"200,001 and above",Civil Lines,Frequently (multiple times a month),I only visit the beach with company and only before sunset,Positively,"Leisure (walking, being with loved ones, etc)"
+710,324dup,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,Most accessible (public beach closest to urban Karachi)
+711,324dup,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+712,325,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+713,325dup,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+714,325dup,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,"Celebrating (personal milestones, special occasions, etc)"
+715,326,25 - 44 years,Non binary,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,Not often - I prefer other beaches,I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+716,327,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+717,327dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+718,327dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+719,328,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Frequently (multiple times a month),I feel safe visiting the beach by myself at any time during the day,Negative,"Leisure (walking, being with loved ones, etc)"
+720,328dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+721,329,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I feel safe visiting the beach by myself but only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+722,329dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+723,329dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,Everytime someone from out of town visits 
+724,330,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,Not often - I prefer other beaches,I feel safe visiting the beach by myself but only before sunset,Positively,"Activity (exercising, sports, running, etc)"
+725,331,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I feel safe visiting the beach by myself at any time during the day,Negative,"Activity (exercising, sports, running, etc)"
+726,331dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,Most accessible (public beach closest to urban Karachi)
+727,331dup,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,"Relief (from climate, from stresses, etc)"
+728,332,15 - 24 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,Often (multiple times in a year),I feel safe visiting the beach by myself at any time during the day,Positively,"Leisure (walking, being with loved ones, etc)"
+729,332dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,Most accessible (public beach closest to urban Karachi)
+730,332dup,15 - 24 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,"Relief (from climate, from stresses, etc)"
+731,333,45 years and above,Male,"200,001 and above",Clifton Cantonment,Not often (few times in many years),I only visit the beach with company and only before sunset,Positively,"Activity (exercising, sports, running, etc)"
+732,333dup,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
+733,334,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,Not often - I prefer other beaches,I only visit the beach with company and only before sunset,Negative,"Leisure (walking, being with loved ones, etc)"
+734,334dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Activity (exercising, sports, running, etc)"
+735,334dup,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,"Commerce (for work, for shopping, for restaurants, etc)"
