@@ -1,4 +1,4 @@
-,id,What age range are you?,What is your gender?,What estimated range is your household's monthly income?,"Which area are you from? If not from Karachi please select ""Outside Karachi""",What would make Clifton Beach your favourite beach to go to? Please use this space for any feedback not covered by the survey,Is it important for Clifton Beach and the coast of Karachi to have a comprehensive plan across various ownership boundaries to guide its growth?,What are your top priorities for Clifton Beach in the next year? You can select up to 3.
+Unnamed: 0,id,What age range are you?,What is your gender?,What estimated range is your household's monthly income?,"Which area are you from? If not from Karachi please select ""Outside Karachi""",op: What would make Clifton Beach your favourite beach to go to? Please use this space for any feedback not covered by the survey,Is it important for Clifton Beach and the coast of Karachi to have a comprehensive plan across various ownership boundaries to guide its growth?,What are your top priorities for Clifton Beach in the next year? You can select up to 3.
 0,0,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,Those who litter should be fined/punished,Important,"Amenities (like: washrooms, washing areas, lockers, etc)"
 1,0dup,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,,," Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 2,0dup,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,,," Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
@@ -41,24 +41,24 @@
 39,13,15 - 24 years,Male,"125,001 - 150,000 rupees",North Nazimabad,,Indifferent,"Amenities (like: washrooms, washing areas, lockers, etc)"
 40,13dup,15 - 24 years,Male,"125,001 - 150,000 rupees",North Nazimabad,,," Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 41,13dup,15 - 24 years,Male,"125,001 - 150,000 rupees",North Nazimabad,,," Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-42,14,15 - 24 years,Male,Prefer not to answer,Civil Lines,,,nan
+42,14,15 - 24 years,Male,Prefer not to answer,Civil Lines,,,
 43,15,15 - 24 years,Female,"50,001 - 75,000 rupees",Airport,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 44,15dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Airport,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 45,15dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Airport,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
 46,16,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 47,16dup,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
 48,16dup,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-49,17,15 - 24 years,Male,Prefer not to answer,Ferozabad,,,nan
-50,18,25 - 44 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,nan
+49,17,15 - 24 years,Male,Prefer not to answer,Ferozabad,,,
+50,18,25 - 44 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,
 51,19,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 52,19dup,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 53,19dup,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-54,20,15 - 24 years,Male,"25,001 - 50,000 rupees",Clifton Cantonment,,,nan
-55,21,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,,,nan
+54,20,15 - 24 years,Male,"25,001 - 50,000 rupees",Clifton Cantonment,,,
+55,21,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,,,
 56,22,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 57,22dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
 58,22dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-59,23,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,nan
+59,23,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,
 60,24,45 years and above,Male,"150,001 - 175,000 rupees",Nazimabad,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 61,24dup,45 years and above,Male,"150,001 - 175,000 rupees",Nazimabad,,,"Natural areas (like: forests, gardens, etc)"
 62,24dup,45 years and above,Male,"150,001 - 175,000 rupees",Nazimabad,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -91,11 +91,11 @@
 89,34,25 - 44 years,Female,Prefer not to answer,Nazimabad,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 90,34dup,25 - 44 years,Female,Prefer not to answer,Nazimabad,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 91,34dup,25 - 44 years,Female,Prefer not to answer,Nazimabad,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-92,35,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,nan
+92,35,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,
 93,36,25 - 44 years,Male,Prefer not to answer,Malir Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 94,36dup,25 - 44 years,Male,Prefer not to answer,Malir Cantonment,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
 95,36dup,25 - 44 years,Male,Prefer not to answer,Malir Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-96,37,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,nan
+96,37,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,
 97,38,15 - 24 years,Female,"25,001 - 50,000 rupees",Orangi,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 98,38dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Orangi,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 99,38dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Orangi,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -111,7 +111,7 @@
 109,42,45 years and above,Transgender,"Up to 25,000 rupees",Civil Lines,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 110,42dup,45 years and above,Transgender,"Up to 25,000 rupees",Civil Lines,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 111,42dup,45 years and above,Transgender,"Up to 25,000 rupees",Civil Lines,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-112,43,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,nan
+112,43,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,
 113,44,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 114,45,Below 15 years,Female,Prefer not to answer,Civil Lines,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 115,45dup,Below 15 years,Female,Prefer not to answer,Civil Lines,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
@@ -127,8 +127,8 @@
 125,49,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 126,49dup,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 127,49dup,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-128,50,25 - 44 years,Female,Prefer not to answer,Garden,,,nan
-129,51,15 - 24 years,Male,"Up to 25,000 rupees",New Karachi Town,,,nan
+128,50,25 - 44 years,Female,Prefer not to answer,Garden,,,
+129,51,15 - 24 years,Male,"Up to 25,000 rupees",New Karachi Town,,,
 130,52,45 years and above,Male,Prefer not to answer,Liaquatabad,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 131,52dup,45 years and above,Male,Prefer not to answer,Liaquatabad,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 132,52dup,45 years and above,Male,Prefer not to answer,Liaquatabad,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -142,27 +142,27 @@
 140,56,15 - 24 years,Female,Prefer not to answer,Gulberg,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 141,56dup,15 - 24 years,Female,Prefer not to answer,Gulberg,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 142,56dup,15 - 24 years,Female,Prefer not to answer,Gulberg,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
-143,57,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,nan
+143,57,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,
 144,58,15 - 24 years,Female,"50,001 - 75,000 rupees",Korangi,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 145,58dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Korangi,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 146,58dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Korangi,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-147,59,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,nan
+147,59,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,
 148,60,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 149,60dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 150,60dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-151,61,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,nan
+151,61,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,
 152,62,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 153,62dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 154,62dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 155,63,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 156,63dup,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 157,63dup,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
-158,64,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,nan
-159,65,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,nan
-160,66,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,nan
-161,67,15 - 24 years,Female,Prefer not to answer,Nazimabad,,,nan
-162,68,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,nan
-163,69,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,nan
+158,64,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,
+159,65,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,
+160,66,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,
+161,67,15 - 24 years,Female,Prefer not to answer,Nazimabad,,,
+162,68,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,
+163,69,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,
 164,70,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
 165,70dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 166,70dup,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -172,7 +172,7 @@
 170,72,15 - 24 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 171,72dup,15 - 24 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 172,72dup,15 - 24 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-173,73,15 - 24 years,Female,"Up to 25,000 rupees",Gulzar-e-Hijri,,,nan
+173,73,15 - 24 years,Female,"Up to 25,000 rupees",Gulzar-e-Hijri,,,
 174,74,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 175,74dup,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 176,75,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
@@ -181,29 +181,29 @@
 179,76,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 180,76dup,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,"Natural areas (like: forests, gardens, etc)"
 181,76dup,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-182,77,15 - 24 years,Female,Prefer not to answer,Liaquatabad,,,nan
+182,77,15 - 24 years,Female,Prefer not to answer,Liaquatabad,,,
 183,78,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 184,78dup,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 185,78dup,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-186,79,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulberg,,,nan
-187,80,15 - 24 years,Female,"125,001 - 150,000 rupees",Ferozabad,,,nan
-188,81,15 - 24 years,Male,"50,001 - 75,000 rupees",Nazimabad,,,nan
+186,79,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulberg,,,
+187,80,15 - 24 years,Female,"125,001 - 150,000 rupees",Ferozabad,,,
+188,81,15 - 24 years,Male,"50,001 - 75,000 rupees",Nazimabad,,,
 189,82,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 190,82dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
 191,82dup,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-192,83,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,nan
+192,83,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,
 193,84,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 194,84dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 195,84dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-196,85,15 - 24 years,Female,"200,001 and above",Nazimabad,,,nan
+196,85,15 - 24 years,Female,"200,001 and above",Nazimabad,,,
 197,86,15 - 24 years,Female,Prefer not to answer,Shah Faisal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 198,86dup,15 - 24 years,Female,Prefer not to answer,Shah Faisal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 199,86dup,15 - 24 years,Female,Prefer not to answer,Shah Faisal,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
 200,87,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 201,87dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 202,87dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-203,88,15 - 24 years,Female,"150,001 - 175,000 rupees",Saddar,,,nan
-204,89,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,nan
+203,88,15 - 24 years,Female,"150,001 - 175,000 rupees",Saddar,,,
+204,89,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,
 205,90,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 206,90dup,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 207,90dup,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
@@ -216,16 +216,16 @@
 214,93,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 215,93dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 216,93dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-217,94,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,nan
-218,95,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,nan
+217,94,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,
+218,95,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,
 219,96,15 - 24 years,Male,"125,001 - 150,000 rupees",Ferozabad,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 220,96dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Ferozabad,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 221,96dup,15 - 24 years,Male,"125,001 - 150,000 rupees",Ferozabad,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-222,97,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,nan
+222,97,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,
 223,98,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 224,98dup,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 225,98dup,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,"Natural areas (like: forests, gardens, etc)"
-226,99,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,nan
+226,99,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,
 227,100,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 228,100dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Commerce (like: restaurants, bazaars, malls, etc)"
 229,100dup,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
@@ -247,9 +247,9 @@
 245,106,15 - 24 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 246,106dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 247,106dup,15 - 24 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-248,107,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,nan
-249,108,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,nan
-250,109,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,nan
+248,107,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,
+249,108,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,
+250,109,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,
 251,110,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 252,110dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 253,110dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -273,9 +273,9 @@
 271,117,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 272,117dup,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
 273,117dup,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-274,118,15 - 24 years,Female,"200,001 and above",Nazimabad,,,nan
-275,119,25 - 44 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,nan
-276,120,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,nan
+274,118,15 - 24 years,Female,"200,001 and above",Nazimabad,,,
+275,119,25 - 44 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,
+276,120,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,
 277,121,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 278,121dup,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
 279,122,45 years and above,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
@@ -334,7 +334,7 @@
 332,139dup,15 - 24 years,Female,Prefer not to answer,Sindh Industrial Trading Estate (SITE),,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 333,139dup,15 - 24 years,Female,Prefer not to answer,Sindh Industrial Trading Estate (SITE),,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
 334,139dup,15 - 24 years,Female,Prefer not to answer,Sindh Industrial Trading Estate (SITE),,,Safe seating
-335,140,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,nan
+335,140,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,
 336,141,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi Creek Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 337,141dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi Creek Cantonment,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
 338,141dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi Creek Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -344,7 +344,7 @@
 342,143,25 - 44 years,Female,"50,001 - 75,000 rupees",Model Colony,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 343,143dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Model Colony,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
 344,143dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Model Colony,,,Tickets for maintenance 
-345,144,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,,,nan
+345,144,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,,,
 346,145,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 347,145dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 348,145dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
@@ -369,8 +369,8 @@
 367,152,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 368,152dup,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 369,152dup,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
-370,153,45 years and above,Male,"50,001 - 75,000 rupees",Shah Faisal,,,nan
-371,154,25 - 44 years,Female,"25,001 - 50,000 rupees",Landhi,,,nan
+370,153,45 years and above,Male,"50,001 - 75,000 rupees",Shah Faisal,,,
+371,154,25 - 44 years,Female,"25,001 - 50,000 rupees",Landhi,,,
 372,155,15 - 24 years,Female,"25,001 - 50,000 rupees",Malir Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 373,155dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Malir Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 374,155dup,15 - 24 years,Female,"25,001 - 50,000 rupees",Malir Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -379,14 +379,14 @@
 377,156dup,45 years and above,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
 378,157,25 - 44 years,Female,Prefer not to answer,Gulberg,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 379,157dup,25 - 44 years,Female,Prefer not to answer,Gulberg,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
-380,158,25 - 44 years,Male,Prefer not to answer,Liaquatabad,,,nan
+380,158,25 - 44 years,Male,Prefer not to answer,Liaquatabad,,,
 381,159,25 - 44 years,Male,"25,001 - 50,000 rupees",Faisal Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 382,159dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Faisal Cantonment,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
 383,159dup,25 - 44 years,Male,"25,001 - 50,000 rupees",Faisal Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 384,160,25 - 44 years,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 385,160dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 386,160dup,25 - 44 years,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-387,161,25 - 44 years,Male,"25,001 - 50,000 rupees",Malir Cantonment,,,nan
+387,161,25 - 44 years,Male,"25,001 - 50,000 rupees",Malir Cantonment,,,
 388,162,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 389,162dup,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 390,163,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
@@ -414,7 +414,7 @@
 412,170dup,25 - 44 years,Male,Prefer not to answer,Korangi,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
 413,171,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 414,171dup,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,"Commerce (like: restaurants, bazaars, malls, etc)"
-415,172,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,nan
+415,172,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,
 416,173,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,"Improved mobility (like: transit stops, neighbourhood shuttles, protected bike lanes, etc)"
 417,173dup,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
 418,173dup,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
@@ -461,7 +461,7 @@
 459,188,Below 15 years,Female,,Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 460,188dup,Below 15 years,Female,,Gulshan-e-Iqbal,,,"Natural areas (like: forests, gardens, etc)"
 461,188dup,Below 15 years,Female,,Gulshan-e-Iqbal,,,"Recreation (like: sandy playgrounds, sports courts, arts expression areas, etc)"
-462,189,Below 15 years,Female,,Garden,,,nan
+462,189,Below 15 years,Female,,Garden,,,
 463,190,Below 15 years,Female,,Gulshan-e-Iqbal,,,"Amenities (like: washrooms, washing areas, lockers, etc)"
 464,190dup,Below 15 years,Female,,Gulshan-e-Iqbal,,,"Commerce (like: restaurants, bazaars, malls, etc)"
 465,190dup,Below 15 years,Female,,Gulshan-e-Iqbal,,,"Safety (like: lights, boardwalks for walkability, safe swimming areas, lifeguards, etc)"
@@ -1870,519 +1870,519 @@ It has 10 times more potential than Lahore. Raise money through local Govt bonds
 1815,657,25 - 44 years,Male,"75,001 - 100,000 rupees",Airport,,Important,"Amenities (like: washrooms, washing areas, lockers, etc)"
 1816,657dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Airport,,,"Cleanliness (like: solutions for sewage, garbage, air pollution, etc)"
 1817,657dup,25 - 44 years,Male,"75,001 - 100,000 rupees",Airport,,,"Seating (like: beach umbrellas for shade, picnic benches, etc)"
-1818,658,,,,,,,nan
-1819,659,,,,,,,nan
-1820,660,,,,,,,nan
-1821,661,,,,,,,nan
-1822,662,,,,,,,nan
-1823,663,,,,,,,nan
-1824,664,,,,,,,nan
-1825,665,,,,,,,nan
-1826,666,,,,,,,nan
-1827,667,,,,,,,nan
-1828,668,,,,,,,nan
-1829,669,,,,,,,nan
-1830,670,,,,,,,nan
-1831,671,,,,,,,nan
-1832,672,,,,,,,nan
-1833,673,,,,,,,nan
-1834,674,,,,,,,nan
-1835,675,,,,,,,nan
-1836,676,,,,,,,nan
-1837,677,,,,,,,nan
-1838,678,,,,,,,nan
-1839,679,,,,,,,nan
-1840,680,,,,,,,nan
-1841,681,,,,,,,nan
-1842,682,,,,,,,nan
-1843,683,,,,,,,nan
-1844,684,,,,,,,nan
-1845,685,,,,,,,nan
-1846,686,,,,,,,nan
-1847,687,,,,,,,nan
-1848,688,,,,,,,nan
-1849,689,,,,,,,nan
-1850,690,,,,,,,nan
-1851,691,,,,,,,nan
-1852,692,,,,,,,nan
-1853,693,,,,,,,nan
-1854,694,,,,,,,nan
-1855,695,,,,,,,nan
-1856,696,,,,,,,nan
-1857,697,,,,,,,nan
-1858,698,,,,,,,nan
-1859,699,,,,,,,nan
-1860,700,,,,,,,nan
-1861,701,,,,,,,nan
-1862,702,,,,,,,nan
-1863,703,,,,,,,nan
-1864,704,,,,,,,nan
-1865,705,,,,,,,nan
-1866,706,,,,,,,nan
-1867,707,,,,,,,nan
-1868,708,,,,,,,nan
-1869,709,,,,,,,nan
-1870,710,,,,,,,nan
-1871,711,,,,,,,nan
-1872,712,,,,,,,nan
-1873,713,,,,,,,nan
-1874,714,,,,,,,nan
-1875,715,,,,,,,nan
-1876,716,,,,,,,nan
-1877,717,,,,,,,nan
-1878,718,,,,,,,nan
-1879,719,,,,,,,nan
-1880,720,,,,,,,nan
-1881,721,,,,,,,nan
-1882,722,,,,,,,nan
-1883,723,,,,,,,nan
-1884,724,,,,,,,nan
-1885,725,,,,,,,nan
-1886,726,,,,,,,nan
-1887,727,,,,,,,nan
-1888,728,,,,,,,nan
-1889,729,,,,,,,nan
-1890,730,,,,,,,nan
-1891,731,,,,,,,nan
-1892,732,,,,,,,nan
-1893,733,,,,,,,nan
-1894,734,,,,,,,nan
-1895,735,,,,,,,nan
-1896,736,,,,,,,nan
-1897,737,,,,,,,nan
-1898,738,,,,,,,nan
-1899,739,,,,,,,nan
-1900,740,,,,,,,nan
-1901,741,,,,,,,nan
-1902,742,,,,,,,nan
-1903,743,,,,,,,nan
-1904,744,,,,,,,nan
-1905,745,,,,,,,nan
-1906,746,,,,,,,nan
-1907,747,,,,,,,nan
-1908,748,,,,,,,nan
-1909,749,,,,,,,nan
-1910,750,,,,,,,nan
-1911,751,,,,,,,nan
-1912,752,,,,,,,nan
-1913,753,,,,,,,nan
-1914,754,,,,,,,nan
-1915,755,,,,,,,nan
-1916,756,,,,,,,nan
-1917,757,,,,,,,nan
-1918,758,,,,,,,nan
-1919,759,,,,,,,nan
-1920,760,,,,,,,nan
-1921,761,,,,,,,nan
-1922,762,,,,,,,nan
-1923,763,,,,,,,nan
-1924,764,,,,,,,nan
-1925,765,,,,,,,nan
-1926,766,,,,,,,nan
-1927,767,,,,,,,nan
-1928,768,,,,,,,nan
-1929,769,,,,,,,nan
-1930,770,,,,,,,nan
-1931,771,,,,,,,nan
-1932,772,,,,,,,nan
-1933,773,,,,,,,nan
-1934,774,,,,,,,nan
-1935,775,,,,,,,nan
-1936,776,,,,,,,nan
-1937,777,,,,,,,nan
-1938,778,,,,,,,nan
-1939,779,,,,,,,nan
-1940,780,,,,,,,nan
-1941,781,,,,,,,nan
-1942,782,,,,,,,nan
-1943,783,,,,,,,nan
-1944,784,,,,,,,nan
-1945,785,,,,,,,nan
-1946,786,,,,,,,nan
-1947,787,,,,,,,nan
-1948,788,,,,,,,nan
-1949,789,,,,,,,nan
-1950,790,,,,,,,nan
-1951,791,,,,,,,nan
-1952,792,,,,,,,nan
-1953,793,,,,,,,nan
-1954,794,,,,,,,nan
-1955,795,,,,,,,nan
-1956,796,,,,,,,nan
-1957,797,,,,,,,nan
-1958,798,,,,,,,nan
-1959,799,,,,,,,nan
-1960,800,,,,,,,nan
-1961,801,,,,,,,nan
-1962,802,,,,,,,nan
-1963,803,,,,,,,nan
-1964,804,,,,,,,nan
-1965,805,,,,,,,nan
-1966,806,,,,,,,nan
-1967,807,,,,,,,nan
-1968,808,,,,,,,nan
-1969,809,,,,,,,nan
-1970,810,,,,,,,nan
-1971,811,,,,,,,nan
-1972,812,,,,,,,nan
-1973,813,,,,,,,nan
-1974,814,,,,,,,nan
-1975,815,,,,,,,nan
-1976,816,,,,,,,nan
-1977,817,,,,,,,nan
-1978,818,,,,,,,nan
-1979,819,,,,,,,nan
-1980,820,,,,,,,nan
-1981,821,,,,,,,nan
-1982,822,,,,,,,nan
-1983,823,,,,,,,nan
-1984,824,,,,,,,nan
-1985,825,,,,,,,nan
-1986,826,,,,,,,nan
-1987,827,,,,,,,nan
-1988,828,,,,,,,nan
-1989,829,,,,,,,nan
-1990,830,,,,,,,nan
-1991,831,,,,,,,nan
-1992,832,,,,,,,nan
-1993,833,,,,,,,nan
-1994,834,,,,,,,nan
-1995,835,,,,,,,nan
-1996,836,,,,,,,nan
-1997,837,,,,,,,nan
-1998,838,,,,,,,nan
-1999,839,,,,,,,nan
-2000,840,,,,,,,nan
-2001,841,,,,,,,nan
-2002,842,,,,,,,nan
-2003,843,,,,,,,nan
-2004,844,,,,,,,nan
-2005,845,,,,,,,nan
-2006,846,,,,,,,nan
-2007,847,,,,,,,nan
-2008,848,,,,,,,nan
-2009,849,,,,,,,nan
-2010,850,,,,,,,nan
-2011,851,,,,,,,nan
-2012,852,,,,,,,nan
-2013,853,,,,,,,nan
-2014,854,,,,,,,nan
-2015,855,,,,,,,nan
-2016,856,,,,,,,nan
-2017,857,,,,,,,nan
-2018,858,,,,,,,nan
-2019,859,,,,,,,nan
-2020,860,,,,,,,nan
-2021,861,,,,,,,nan
-2022,862,,,,,,,nan
-2023,863,,,,,,,nan
-2024,864,,,,,,,nan
-2025,865,,,,,,,nan
-2026,866,,,,,,,nan
-2027,867,,,,,,,nan
-2028,868,,,,,,,nan
-2029,869,,,,,,,nan
-2030,870,,,,,,,nan
-2031,871,,,,,,,nan
-2032,872,,,,,,,nan
-2033,873,,,,,,,nan
-2034,874,,,,,,,nan
-2035,875,,,,,,,nan
-2036,876,,,,,,,nan
-2037,877,,,,,,,nan
-2038,878,,,,,,,nan
-2039,879,,,,,,,nan
-2040,880,,,,,,,nan
-2041,881,,,,,,,nan
-2042,882,,,,,,,nan
-2043,883,,,,,,,nan
-2044,884,,,,,,,nan
-2045,885,,,,,,,nan
-2046,886,,,,,,,nan
-2047,887,,,,,,,nan
-2048,888,,,,,,,nan
-2049,889,,,,,,,nan
-2050,890,,,,,,,nan
-2051,891,,,,,,,nan
-2052,892,,,,,,,nan
-2053,893,,,,,,,nan
-2054,894,,,,,,,nan
-2055,895,,,,,,,nan
-2056,896,,,,,,,nan
-2057,897,,,,,,,nan
-2058,898,,,,,,,nan
-2059,899,,,,,,,nan
-2060,900,,,,,,,nan
-2061,901,,,,,,,nan
-2062,902,,,,,,,nan
-2063,903,,,,,,,nan
-2064,904,,,,,,,nan
-2065,905,,,,,,,nan
-2066,906,,,,,,,nan
-2067,907,,,,,,,nan
-2068,908,,,,,,,nan
-2069,909,,,,,,,nan
-2070,910,,,,,,,nan
-2071,911,,,,,,,nan
-2072,912,,,,,,,nan
-2073,913,,,,,,,nan
-2074,914,,,,,,,nan
-2075,915,,,,,,,nan
-2076,916,,,,,,,nan
-2077,917,,,,,,,nan
-2078,918,,,,,,,nan
-2079,919,,,,,,,nan
-2080,920,,,,,,,nan
-2081,921,,,,,,,nan
-2082,922,,,,,,,nan
-2083,923,,,,,,,nan
-2084,924,,,,,,,nan
-2085,925,,,,,,,nan
-2086,926,,,,,,,nan
-2087,927,,,,,,,nan
-2088,928,,,,,,,nan
-2089,929,,,,,,,nan
-2090,930,,,,,,,nan
-2091,931,,,,,,,nan
-2092,932,,,,,,,nan
-2093,933,,,,,,,nan
-2094,934,,,,,,,nan
-2095,935,,,,,,,nan
-2096,936,,,,,,,nan
-2097,937,,,,,,,nan
-2098,938,,,,,,,nan
-2099,939,,,,,,,nan
-2100,940,,,,,,,nan
-2101,941,,,,,,,nan
-2102,942,,,,,,,nan
-2103,943,,,,,,,nan
-2104,944,,,,,,,nan
-2105,945,,,,,,,nan
-2106,946,,,,,,,nan
-2107,947,,,,,,,nan
-2108,948,,,,,,,nan
-2109,949,,,,,,,nan
-2110,950,,,,,,,nan
-2111,951,,,,,,,nan
-2112,952,,,,,,,nan
-2113,953,,,,,,,nan
-2114,954,,,,,,,nan
-2115,955,,,,,,,nan
-2116,956,,,,,,,nan
-2117,957,,,,,,,nan
-2118,958,,,,,,,nan
-2119,959,,,,,,,nan
-2120,960,,,,,,,nan
-2121,961,,,,,,,nan
-2122,962,,,,,,,nan
-2123,963,,,,,,,nan
-2124,964,,,,,,,nan
-2125,965,,,,,,,nan
-2126,966,,,,,,,nan
-2127,967,,,,,,,nan
-2128,968,,,,,,,nan
-2129,969,,,,,,,nan
-2130,970,,,,,,,nan
-2131,971,,,,,,,nan
-2132,972,,,,,,,nan
-2133,973,,,,,,,nan
-2134,974,,,,,,,nan
-2135,975,,,,,,,nan
-2136,976,,,,,,,nan
-2137,977,,,,,,,nan
-2138,978,,,,,,,nan
-2139,979,,,,,,,nan
-2140,980,,,,,,,nan
-2141,981,,,,,,,nan
-2142,982,,,,,,,nan
-2143,983,,,,,,,nan
-2144,984,,,,,,,nan
-2145,985,,,,,,,nan
-2146,986,,,,,,,nan
-2147,987,,,,,,,nan
-2148,988,,,,,,,nan
-2149,989,,,,,,,nan
-2150,990,,,,,,,nan
-2151,991,,,,,,,nan
-2152,992,,,,,,,nan
-2153,993,,,,,,,nan
-2154,994,,,,,,,nan
-2155,995,,,,,,,nan
-2156,996,,,,,,,nan
-2157,997,,,,,,,nan
-2158,998,,,,,,,nan
-2159,999,,,,,,,nan
-2160,1000,,,,,,,nan
-2161,1001,,,,,,,nan
-2162,1002,,,,,,,nan
-2163,1003,,,,,,,nan
-2164,1004,,,,,,,nan
-2165,1005,,,,,,,nan
-2166,1006,,,,,,,nan
-2167,1007,,,,,,,nan
-2168,1008,,,,,,,nan
-2169,1009,,,,,,,nan
-2170,1010,,,,,,,nan
-2171,1011,,,,,,,nan
-2172,1012,,,,,,,nan
-2173,1013,,,,,,,nan
-2174,1014,,,,,,,nan
-2175,1015,,,,,,,nan
-2176,1016,,,,,,,nan
-2177,1017,,,,,,,nan
-2178,1018,,,,,,,nan
-2179,1019,,,,,,,nan
-2180,1020,,,,,,,nan
-2181,1021,,,,,,,nan
-2182,1022,,,,,,,nan
-2183,1023,,,,,,,nan
-2184,1024,,,,,,,nan
-2185,1025,,,,,,,nan
-2186,1026,,,,,,,nan
-2187,1027,,,,,,,nan
-2188,1028,,,,,,,nan
-2189,1029,,,,,,,nan
-2190,1030,,,,,,,nan
-2191,1031,,,,,,,nan
-2192,1032,,,,,,,nan
-2193,1033,,,,,,,nan
-2194,1034,,,,,,,nan
-2195,1035,,,,,,,nan
-2196,1036,,,,,,,nan
-2197,1037,,,,,,,nan
-2198,1038,,,,,,,nan
-2199,1039,,,,,,,nan
-2200,1040,,,,,,,nan
-2201,1041,,,,,,,nan
-2202,1042,,,,,,,nan
-2203,1043,,,,,,,nan
-2204,1044,,,,,,,nan
-2205,1045,,,,,,,nan
-2206,1046,,,,,,,nan
-2207,1047,,,,,,,nan
-2208,1048,,,,,,,nan
-2209,1049,,,,,,,nan
-2210,1050,,,,,,,nan
-2211,1051,,,,,,,nan
-2212,1052,,,,,,,nan
-2213,1053,,,,,,,nan
-2214,1054,,,,,,,nan
-2215,1055,,,,,,,nan
-2216,1056,,,,,,,nan
-2217,1057,,,,,,,nan
-2218,1058,,,,,,,nan
-2219,1059,,,,,,,nan
-2220,1060,,,,,,,nan
-2221,1061,,,,,,,nan
-2222,1062,,,,,,,nan
-2223,1063,,,,,,,nan
-2224,1064,,,,,,,nan
-2225,1065,,,,,,,nan
-2226,1066,,,,,,,nan
-2227,1067,,,,,,,nan
-2228,1068,,,,,,,nan
-2229,1069,,,,,,,nan
-2230,1070,,,,,,,nan
-2231,1071,,,,,,,nan
-2232,1072,,,,,,,nan
-2233,1073,,,,,,,nan
-2234,1074,,,,,,,nan
-2235,1075,,,,,,,nan
-2236,1076,,,,,,,nan
-2237,1077,,,,,,,nan
-2238,1078,,,,,,,nan
-2239,1079,,,,,,,nan
-2240,1080,,,,,,,nan
-2241,1081,,,,,,,nan
-2242,1082,,,,,,,nan
-2243,1083,,,,,,,nan
-2244,1084,,,,,,,nan
-2245,1085,,,,,,,nan
-2246,1086,,,,,,,nan
-2247,1087,,,,,,,nan
-2248,1088,,,,,,,nan
-2249,1089,,,,,,,nan
-2250,1090,,,,,,,nan
-2251,1091,,,,,,,nan
-2252,1092,,,,,,,nan
-2253,1093,,,,,,,nan
-2254,1094,,,,,,,nan
-2255,1095,,,,,,,nan
-2256,1096,,,,,,,nan
-2257,1097,,,,,,,nan
-2258,1098,,,,,,,nan
-2259,1099,,,,,,,nan
-2260,1100,,,,,,,nan
-2261,1101,,,,,,,nan
-2262,1102,,,,,,,nan
-2263,1103,,,,,,,nan
-2264,1104,,,,,,,nan
-2265,1105,,,,,,,nan
-2266,1106,,,,,,,nan
-2267,1107,,,,,,,nan
-2268,1108,,,,,,,nan
-2269,1109,,,,,,,nan
-2270,1110,,,,,,,nan
-2271,1111,,,,,,,nan
-2272,1112,,,,,,,nan
-2273,1113,,,,,,,nan
-2274,1114,,,,,,,nan
-2275,1115,,,,,,,nan
-2276,1116,,,,,,,nan
-2277,1117,,,,,,,nan
-2278,1118,,,,,,,nan
-2279,1119,,,,,,,nan
-2280,1120,,,,,,,nan
-2281,1121,,,,,,,nan
-2282,1122,,,,,,,nan
-2283,1123,,,,,,,nan
-2284,1124,,,,,,,nan
-2285,1125,,,,,,,nan
-2286,1126,,,,,,,nan
-2287,1127,,,,,,,nan
-2288,1128,,,,,,,nan
-2289,1129,,,,,,,nan
-2290,1130,,,,,,,nan
-2291,1131,,,,,,,nan
-2292,1132,,,,,,,nan
-2293,1133,,,,,,,nan
-2294,1134,,,,,,,nan
-2295,1135,,,,,,,nan
-2296,1136,,,,,,,nan
-2297,1137,,,,,,,nan
-2298,1138,,,,,,,nan
-2299,1139,,,,,,,nan
-2300,1140,,,,,,,nan
-2301,1141,,,,,,,nan
-2302,1142,,,,,,,nan
-2303,1143,,,,,,,nan
-2304,1144,,,,,,,nan
-2305,1145,,,,,,,nan
-2306,1146,,,,,,,nan
-2307,1147,,,,,,,nan
-2308,1148,,,,,,,nan
-2309,1149,,,,,,,nan
-2310,1150,,,,,,,nan
-2311,1151,,,,,,,nan
-2312,1152,,,,,,,nan
-2313,1153,,,,,,,nan
-2314,1154,,,,,,,nan
-2315,1155,,,,,,,nan
-2316,1156,,,,,,,nan
-2317,1157,,,,,,,nan
-2318,1158,,,,,,,nan
-2319,1159,,,,,,,nan
-2320,1160,,,,,,,nan
-2321,1161,,,,,,,nan
-2322,1162,,,,,,,nan
-2323,1163,,,,,,,nan
-2324,1164,,,,,,,nan
-2325,1165,,,,,,,nan
-2326,1166,,,,,,,nan
-2327,1167,,,,,,,nan
-2328,1168,,,,,,,nan
-2329,1169,,,,,,,nan
-2330,1170,,,,,,,nan
-2331,1171,,,,,,,nan
-2332,1172,,,,,,,nan
-2333,1173,,,,,,,nan
+1818,658,,,,,,,
+1819,659,,,,,,,
+1820,660,,,,,,,
+1821,661,,,,,,,
+1822,662,,,,,,,
+1823,663,,,,,,,
+1824,664,,,,,,,
+1825,665,,,,,,,
+1826,666,,,,,,,
+1827,667,,,,,,,
+1828,668,,,,,,,
+1829,669,,,,,,,
+1830,670,,,,,,,
+1831,671,,,,,,,
+1832,672,,,,,,,
+1833,673,,,,,,,
+1834,674,,,,,,,
+1835,675,,,,,,,
+1836,676,,,,,,,
+1837,677,,,,,,,
+1838,678,,,,,,,
+1839,679,,,,,,,
+1840,680,,,,,,,
+1841,681,,,,,,,
+1842,682,,,,,,,
+1843,683,,,,,,,
+1844,684,,,,,,,
+1845,685,,,,,,,
+1846,686,,,,,,,
+1847,687,,,,,,,
+1848,688,,,,,,,
+1849,689,,,,,,,
+1850,690,,,,,,,
+1851,691,,,,,,,
+1852,692,,,,,,,
+1853,693,,,,,,,
+1854,694,,,,,,,
+1855,695,,,,,,,
+1856,696,,,,,,,
+1857,697,,,,,,,
+1858,698,,,,,,,
+1859,699,,,,,,,
+1860,700,,,,,,,
+1861,701,,,,,,,
+1862,702,,,,,,,
+1863,703,,,,,,,
+1864,704,,,,,,,
+1865,705,,,,,,,
+1866,706,,,,,,,
+1867,707,,,,,,,
+1868,708,,,,,,,
+1869,709,,,,,,,
+1870,710,,,,,,,
+1871,711,,,,,,,
+1872,712,,,,,,,
+1873,713,,,,,,,
+1874,714,,,,,,,
+1875,715,,,,,,,
+1876,716,,,,,,,
+1877,717,,,,,,,
+1878,718,,,,,,,
+1879,719,,,,,,,
+1880,720,,,,,,,
+1881,721,,,,,,,
+1882,722,,,,,,,
+1883,723,,,,,,,
+1884,724,,,,,,,
+1885,725,,,,,,,
+1886,726,,,,,,,
+1887,727,,,,,,,
+1888,728,,,,,,,
+1889,729,,,,,,,
+1890,730,,,,,,,
+1891,731,,,,,,,
+1892,732,,,,,,,
+1893,733,,,,,,,
+1894,734,,,,,,,
+1895,735,,,,,,,
+1896,736,,,,,,,
+1897,737,,,,,,,
+1898,738,,,,,,,
+1899,739,,,,,,,
+1900,740,,,,,,,
+1901,741,,,,,,,
+1902,742,,,,,,,
+1903,743,,,,,,,
+1904,744,,,,,,,
+1905,745,,,,,,,
+1906,746,,,,,,,
+1907,747,,,,,,,
+1908,748,,,,,,,
+1909,749,,,,,,,
+1910,750,,,,,,,
+1911,751,,,,,,,
+1912,752,,,,,,,
+1913,753,,,,,,,
+1914,754,,,,,,,
+1915,755,,,,,,,
+1916,756,,,,,,,
+1917,757,,,,,,,
+1918,758,,,,,,,
+1919,759,,,,,,,
+1920,760,,,,,,,
+1921,761,,,,,,,
+1922,762,,,,,,,
+1923,763,,,,,,,
+1924,764,,,,,,,
+1925,765,,,,,,,
+1926,766,,,,,,,
+1927,767,,,,,,,
+1928,768,,,,,,,
+1929,769,,,,,,,
+1930,770,,,,,,,
+1931,771,,,,,,,
+1932,772,,,,,,,
+1933,773,,,,,,,
+1934,774,,,,,,,
+1935,775,,,,,,,
+1936,776,,,,,,,
+1937,777,,,,,,,
+1938,778,,,,,,,
+1939,779,,,,,,,
+1940,780,,,,,,,
+1941,781,,,,,,,
+1942,782,,,,,,,
+1943,783,,,,,,,
+1944,784,,,,,,,
+1945,785,,,,,,,
+1946,786,,,,,,,
+1947,787,,,,,,,
+1948,788,,,,,,,
+1949,789,,,,,,,
+1950,790,,,,,,,
+1951,791,,,,,,,
+1952,792,,,,,,,
+1953,793,,,,,,,
+1954,794,,,,,,,
+1955,795,,,,,,,
+1956,796,,,,,,,
+1957,797,,,,,,,
+1958,798,,,,,,,
+1959,799,,,,,,,
+1960,800,,,,,,,
+1961,801,,,,,,,
+1962,802,,,,,,,
+1963,803,,,,,,,
+1964,804,,,,,,,
+1965,805,,,,,,,
+1966,806,,,,,,,
+1967,807,,,,,,,
+1968,808,,,,,,,
+1969,809,,,,,,,
+1970,810,,,,,,,
+1971,811,,,,,,,
+1972,812,,,,,,,
+1973,813,,,,,,,
+1974,814,,,,,,,
+1975,815,,,,,,,
+1976,816,,,,,,,
+1977,817,,,,,,,
+1978,818,,,,,,,
+1979,819,,,,,,,
+1980,820,,,,,,,
+1981,821,,,,,,,
+1982,822,,,,,,,
+1983,823,,,,,,,
+1984,824,,,,,,,
+1985,825,,,,,,,
+1986,826,,,,,,,
+1987,827,,,,,,,
+1988,828,,,,,,,
+1989,829,,,,,,,
+1990,830,,,,,,,
+1991,831,,,,,,,
+1992,832,,,,,,,
+1993,833,,,,,,,
+1994,834,,,,,,,
+1995,835,,,,,,,
+1996,836,,,,,,,
+1997,837,,,,,,,
+1998,838,,,,,,,
+1999,839,,,,,,,
+2000,840,,,,,,,
+2001,841,,,,,,,
+2002,842,,,,,,,
+2003,843,,,,,,,
+2004,844,,,,,,,
+2005,845,,,,,,,
+2006,846,,,,,,,
+2007,847,,,,,,,
+2008,848,,,,,,,
+2009,849,,,,,,,
+2010,850,,,,,,,
+2011,851,,,,,,,
+2012,852,,,,,,,
+2013,853,,,,,,,
+2014,854,,,,,,,
+2015,855,,,,,,,
+2016,856,,,,,,,
+2017,857,,,,,,,
+2018,858,,,,,,,
+2019,859,,,,,,,
+2020,860,,,,,,,
+2021,861,,,,,,,
+2022,862,,,,,,,
+2023,863,,,,,,,
+2024,864,,,,,,,
+2025,865,,,,,,,
+2026,866,,,,,,,
+2027,867,,,,,,,
+2028,868,,,,,,,
+2029,869,,,,,,,
+2030,870,,,,,,,
+2031,871,,,,,,,
+2032,872,,,,,,,
+2033,873,,,,,,,
+2034,874,,,,,,,
+2035,875,,,,,,,
+2036,876,,,,,,,
+2037,877,,,,,,,
+2038,878,,,,,,,
+2039,879,,,,,,,
+2040,880,,,,,,,
+2041,881,,,,,,,
+2042,882,,,,,,,
+2043,883,,,,,,,
+2044,884,,,,,,,
+2045,885,,,,,,,
+2046,886,,,,,,,
+2047,887,,,,,,,
+2048,888,,,,,,,
+2049,889,,,,,,,
+2050,890,,,,,,,
+2051,891,,,,,,,
+2052,892,,,,,,,
+2053,893,,,,,,,
+2054,894,,,,,,,
+2055,895,,,,,,,
+2056,896,,,,,,,
+2057,897,,,,,,,
+2058,898,,,,,,,
+2059,899,,,,,,,
+2060,900,,,,,,,
+2061,901,,,,,,,
+2062,902,,,,,,,
+2063,903,,,,,,,
+2064,904,,,,,,,
+2065,905,,,,,,,
+2066,906,,,,,,,
+2067,907,,,,,,,
+2068,908,,,,,,,
+2069,909,,,,,,,
+2070,910,,,,,,,
+2071,911,,,,,,,
+2072,912,,,,,,,
+2073,913,,,,,,,
+2074,914,,,,,,,
+2075,915,,,,,,,
+2076,916,,,,,,,
+2077,917,,,,,,,
+2078,918,,,,,,,
+2079,919,,,,,,,
+2080,920,,,,,,,
+2081,921,,,,,,,
+2082,922,,,,,,,
+2083,923,,,,,,,
+2084,924,,,,,,,
+2085,925,,,,,,,
+2086,926,,,,,,,
+2087,927,,,,,,,
+2088,928,,,,,,,
+2089,929,,,,,,,
+2090,930,,,,,,,
+2091,931,,,,,,,
+2092,932,,,,,,,
+2093,933,,,,,,,
+2094,934,,,,,,,
+2095,935,,,,,,,
+2096,936,,,,,,,
+2097,937,,,,,,,
+2098,938,,,,,,,
+2099,939,,,,,,,
+2100,940,,,,,,,
+2101,941,,,,,,,
+2102,942,,,,,,,
+2103,943,,,,,,,
+2104,944,,,,,,,
+2105,945,,,,,,,
+2106,946,,,,,,,
+2107,947,,,,,,,
+2108,948,,,,,,,
+2109,949,,,,,,,
+2110,950,,,,,,,
+2111,951,,,,,,,
+2112,952,,,,,,,
+2113,953,,,,,,,
+2114,954,,,,,,,
+2115,955,,,,,,,
+2116,956,,,,,,,
+2117,957,,,,,,,
+2118,958,,,,,,,
+2119,959,,,,,,,
+2120,960,,,,,,,
+2121,961,,,,,,,
+2122,962,,,,,,,
+2123,963,,,,,,,
+2124,964,,,,,,,
+2125,965,,,,,,,
+2126,966,,,,,,,
+2127,967,,,,,,,
+2128,968,,,,,,,
+2129,969,,,,,,,
+2130,970,,,,,,,
+2131,971,,,,,,,
+2132,972,,,,,,,
+2133,973,,,,,,,
+2134,974,,,,,,,
+2135,975,,,,,,,
+2136,976,,,,,,,
+2137,977,,,,,,,
+2138,978,,,,,,,
+2139,979,,,,,,,
+2140,980,,,,,,,
+2141,981,,,,,,,
+2142,982,,,,,,,
+2143,983,,,,,,,
+2144,984,,,,,,,
+2145,985,,,,,,,
+2146,986,,,,,,,
+2147,987,,,,,,,
+2148,988,,,,,,,
+2149,989,,,,,,,
+2150,990,,,,,,,
+2151,991,,,,,,,
+2152,992,,,,,,,
+2153,993,,,,,,,
+2154,994,,,,,,,
+2155,995,,,,,,,
+2156,996,,,,,,,
+2157,997,,,,,,,
+2158,998,,,,,,,
+2159,999,,,,,,,
+2160,1000,,,,,,,
+2161,1001,,,,,,,
+2162,1002,,,,,,,
+2163,1003,,,,,,,
+2164,1004,,,,,,,
+2165,1005,,,,,,,
+2166,1006,,,,,,,
+2167,1007,,,,,,,
+2168,1008,,,,,,,
+2169,1009,,,,,,,
+2170,1010,,,,,,,
+2171,1011,,,,,,,
+2172,1012,,,,,,,
+2173,1013,,,,,,,
+2174,1014,,,,,,,
+2175,1015,,,,,,,
+2176,1016,,,,,,,
+2177,1017,,,,,,,
+2178,1018,,,,,,,
+2179,1019,,,,,,,
+2180,1020,,,,,,,
+2181,1021,,,,,,,
+2182,1022,,,,,,,
+2183,1023,,,,,,,
+2184,1024,,,,,,,
+2185,1025,,,,,,,
+2186,1026,,,,,,,
+2187,1027,,,,,,,
+2188,1028,,,,,,,
+2189,1029,,,,,,,
+2190,1030,,,,,,,
+2191,1031,,,,,,,
+2192,1032,,,,,,,
+2193,1033,,,,,,,
+2194,1034,,,,,,,
+2195,1035,,,,,,,
+2196,1036,,,,,,,
+2197,1037,,,,,,,
+2198,1038,,,,,,,
+2199,1039,,,,,,,
+2200,1040,,,,,,,
+2201,1041,,,,,,,
+2202,1042,,,,,,,
+2203,1043,,,,,,,
+2204,1044,,,,,,,
+2205,1045,,,,,,,
+2206,1046,,,,,,,
+2207,1047,,,,,,,
+2208,1048,,,,,,,
+2209,1049,,,,,,,
+2210,1050,,,,,,,
+2211,1051,,,,,,,
+2212,1052,,,,,,,
+2213,1053,,,,,,,
+2214,1054,,,,,,,
+2215,1055,,,,,,,
+2216,1056,,,,,,,
+2217,1057,,,,,,,
+2218,1058,,,,,,,
+2219,1059,,,,,,,
+2220,1060,,,,,,,
+2221,1061,,,,,,,
+2222,1062,,,,,,,
+2223,1063,,,,,,,
+2224,1064,,,,,,,
+2225,1065,,,,,,,
+2226,1066,,,,,,,
+2227,1067,,,,,,,
+2228,1068,,,,,,,
+2229,1069,,,,,,,
+2230,1070,,,,,,,
+2231,1071,,,,,,,
+2232,1072,,,,,,,
+2233,1073,,,,,,,
+2234,1074,,,,,,,
+2235,1075,,,,,,,
+2236,1076,,,,,,,
+2237,1077,,,,,,,
+2238,1078,,,,,,,
+2239,1079,,,,,,,
+2240,1080,,,,,,,
+2241,1081,,,,,,,
+2242,1082,,,,,,,
+2243,1083,,,,,,,
+2244,1084,,,,,,,
+2245,1085,,,,,,,
+2246,1086,,,,,,,
+2247,1087,,,,,,,
+2248,1088,,,,,,,
+2249,1089,,,,,,,
+2250,1090,,,,,,,
+2251,1091,,,,,,,
+2252,1092,,,,,,,
+2253,1093,,,,,,,
+2254,1094,,,,,,,
+2255,1095,,,,,,,
+2256,1096,,,,,,,
+2257,1097,,,,,,,
+2258,1098,,,,,,,
+2259,1099,,,,,,,
+2260,1100,,,,,,,
+2261,1101,,,,,,,
+2262,1102,,,,,,,
+2263,1103,,,,,,,
+2264,1104,,,,,,,
+2265,1105,,,,,,,
+2266,1106,,,,,,,
+2267,1107,,,,,,,
+2268,1108,,,,,,,
+2269,1109,,,,,,,
+2270,1110,,,,,,,
+2271,1111,,,,,,,
+2272,1112,,,,,,,
+2273,1113,,,,,,,
+2274,1114,,,,,,,
+2275,1115,,,,,,,
+2276,1116,,,,,,,
+2277,1117,,,,,,,
+2278,1118,,,,,,,
+2279,1119,,,,,,,
+2280,1120,,,,,,,
+2281,1121,,,,,,,
+2282,1122,,,,,,,
+2283,1123,,,,,,,
+2284,1124,,,,,,,
+2285,1125,,,,,,,
+2286,1126,,,,,,,
+2287,1127,,,,,,,
+2288,1128,,,,,,,
+2289,1129,,,,,,,
+2290,1130,,,,,,,
+2291,1131,,,,,,,
+2292,1132,,,,,,,
+2293,1133,,,,,,,
+2294,1134,,,,,,,
+2295,1135,,,,,,,
+2296,1136,,,,,,,
+2297,1137,,,,,,,
+2298,1138,,,,,,,
+2299,1139,,,,,,,
+2300,1140,,,,,,,
+2301,1141,,,,,,,
+2302,1142,,,,,,,
+2303,1143,,,,,,,
+2304,1144,,,,,,,
+2305,1145,,,,,,,
+2306,1146,,,,,,,
+2307,1147,,,,,,,
+2308,1148,,,,,,,
+2309,1149,,,,,,,
+2310,1150,,,,,,,
+2311,1151,,,,,,,
+2312,1152,,,,,,,
+2313,1153,,,,,,,
+2314,1154,,,,,,,
+2315,1155,,,,,,,
+2316,1156,,,,,,,
+2317,1157,,,,,,,
+2318,1158,,,,,,,
+2319,1159,,,,,,,
+2320,1160,,,,,,,
+2321,1161,,,,,,,
+2322,1162,,,,,,,
+2323,1163,,,,,,,
+2324,1164,,,,,,,
+2325,1165,,,,,,,
+2326,1166,,,,,,,
+2327,1167,,,,,,,
+2328,1168,,,,,,,
+2329,1169,,,,,,,
+2330,1170,,,,,,,
+2331,1171,,,,,,,
+2332,1172,,,,,,,
+2333,1173,,,,,,,
