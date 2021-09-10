@@ -239,12 +239,10 @@ col3.plotly_chart(treeplot(civic[0][2]))
 
 
 st.title('New Questions')
-col1,col2= st.beta_columns([1,1])
+col1= st.beta_columns([1])[0]
 with col1:
     col1.markdown(new[0][0].columns[0])
     col1.plotly_chart(countplot(new[0][0]))
 
-with col2:
-    col2.markdown(new[0][1].columns[0])
-    col2.plotly_chart(countplot(new[0][1]))
+
 
