@@ -50,6 +50,7 @@ exp=pd.read_csv(r"Experience.csv")
 civic=pd.read_csv(r"Civic.csv")
 desires=pd.read_csv(r"Desires.csv")
 acess=pd.read_csv(r"acess.csv")
+new=pd.read_csv(r"new.csv")
 
 
 def treeplot(df,width=300, height=400):
@@ -129,7 +130,7 @@ civic=count(civic)
 exp=count(exp)
 desires=count(desires)
 acess=count(acess)
-
+new=count(new)
 
 
 
@@ -235,3 +236,15 @@ with col2:
 
 col3.markdown(civic[0][2].columns[0])
 col3.plotly_chart(treeplot(civic[0][2]))
+
+
+st.title('New Questions')
+col1,col2= st.beta_columns([1,1])
+with col1:
+    col1.markdown(new[0][0].columns[0])
+    col1.plotly_chart(countplot(new[0][0]))
+
+with col2:
+    col2.markdown(new[0][1].columns[0])
+    col2.plotly_chart(countplot(new[0][1]))
+
