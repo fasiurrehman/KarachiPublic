@@ -35,7 +35,9 @@ def count(civic):
     ops=[]
     for col in civic.columns[6:]:
         if ":" not in col:
-            out = pd.DataFrame.from_dict(Counter(civic[col].to_list()), orient='index').reset_index()
+            df_col = pd.DataFrame(civic[col]) ; df_col = df_col.assign(var1=df_col[col].str.split(';')).explode('var1'); df_col[col] = df_col['var1']; df_col = df_col.drop('var1',axis=1);
+
+            out = pd.DataFrame.from_dict(Counter(df_col[col].to_list()), orient='index').reset_index();
             out.rename({"index":col,0:"count"},axis=1,inplace=True)
             out=out[~out[col].isnull()]
             out["count"]=((out["count"]/out["count"].sum())*100).round(2)
@@ -105,8 +107,10 @@ def countplot(data,width=300, height=400):
                         data.columns[0]: ""
                     },custom_data=[data.columns[1],data.columns[0]])
                         
-    fig.update_xaxes(visible=False, showticklabels=False,showgrid = False)
-    fig.update_yaxes(visible=False, showticklabels=False,showgrid = False)
+    fig.update_xaxes(visible=False, showticklabels=False,showgrid = False , showline=True, linewidth=1, linecolor='black', mirror=True)
+    fig.update_yaxes(visible=True, showticklabels=False,showgrid = False,showline=True, linewidth=1, linecolor='black', mirror=True)
+    # fig.update_xaxes(showline=True, linewidth=1, linecolor='black', mirror=True)
+    # fig.update_yaxes(showline=True, linewidth=1, linecolor='black', mirror=True)
     fig.update_traces(textposition='bottom center')
     fig.update_layout(
     margin=dict(l=20, r=20, t=20, b=20),
@@ -132,12 +136,12 @@ desires=count(desires)
 acess=count(acess)
 new=count(new)
 
-
+# new.to_csv("out.csv")
 
 st.title('On Experience at Clifton Beach')
 
 col4,col5= st.beta_columns([1,1])
-col6= st.beta_columns([1])[0]
+
 with col4:
     col4.markdown(exp[0][1].columns[0])
     col4.plotly_chart(countplot(exp[0][1]))
@@ -145,10 +149,15 @@ with col4:
 with col5:
     col5.markdown(exp[0][0].columns[0])
     col5.plotly_chart(countplot(exp[0][0]))
-
+    
+col6,col7= st.beta_columns([1,1])
 with col6:
-    col6.markdown(exp[0][1].columns[0])
-    col6.plotly_chart(treeplot(exp[0][1]))
+    col6.markdown(exp[0][2].columns[0])
+    col6.plotly_chart(countplot(exp[0][2]))
+
+with col7:
+    col7.markdown(exp[0][3].columns[0])
+    col7.plotly_chart(countplot(exp[0][3]))
 
 st.title("On Accessing Clifton Beach")
 col9,col10= st.beta_columns([1,1])
@@ -239,10 +248,99 @@ col3.plotly_chart(treeplot(civic[0][2]))
 
 
 st.title('New Questions')
-col1= st.beta_columns([1])[0]
-with col1:
-    col1.markdown(new[0][0].columns[0])
-    col1.plotly_chart(countplot(new[0][0]))
 
 
 
+col2,col2i,col4= st.beta_columns([1,1,1])
+
+with col2:
+    col2.markdown(new[0][3].columns[0])
+    col2.plotly_chart(countplot(new[0][3] , width=200, height=400))
+
+# col1i,col2i= st.beta_columns([1,1])
+with col2i:
+    col2i.markdown(new[0][4].columns[0])
+    col2i.plotly_chart(countplot(new[0][4]))
+
+
+with col4:
+    col4.markdown(new[0][6].columns[0])
+    col4.plotly_chart(countplot(new[0][6]))
+
+col3= st.beta_columns([1])[0]
+
+with col3:
+    col3.markdown(new[0][5].columns[0])
+    col3.plotly_chart(treeplot(new[0][5]))
+
+
+col5,col6= st.beta_columns([1,1])
+with col5:
+    col5.markdown(new[0][7].columns[0])
+    col5.plotly_chart(countplot(new[0][7]))
+
+with col6:
+    col6.markdown(new[0][8].columns[0])
+    col6.plotly_chart(countplot(new[0][8]))
+
+#
+col7,col8= st.beta_columns([1,1])
+
+with col7:
+    col7.markdown(new[0][9].columns[0])
+    col7.plotly_chart(countplot(new[0][9]))
+
+with col8:
+    col8.markdown(new[0][10].columns[0])
+    col8.plotly_chart(countplot(new[0][10]))
+
+col9,col10= st.beta_columns([1,1])
+
+with col9:
+    col9.markdown(new[0][11].columns[0])
+    col9.plotly_chart(countplot(new[0][11]))
+
+with col10:
+    col10.markdown(new[0][12].columns[0])
+    col10.plotly_chart(countplot(new[0][12]))
+
+# col11,col12= st.beta_columns([1,1])
+
+# with col11:
+#     col11.markdown(new[0][11].columns[0])
+#     col11.plotly_chart(countplot(new[0][11]))
+
+# with col12:
+#     col12.markdown(new[0][12].columns[0])
+#     col12.plotly_chart(countplot(new[0][12]))
+
+
+col11,col12= st.beta_columns([1,1])
+
+with col11:
+    col11.markdown(new[0][13].columns[0])
+    col11.plotly_chart(countplot(new[0][13]))
+
+with col12:
+    col12.markdown(new[0][14].columns[0])
+    col12.plotly_chart(countplot(new[0][14]))
+
+col13,col14= st.beta_columns([1,1])
+
+with col13:
+    col13.markdown(new[0][15].columns[0])
+    col13.plotly_chart(countplot(new[0][15]))
+
+with col14:
+    col14.markdown(new[0][16].columns[0])
+    col14.plotly_chart(countplot(new[0][16]))
+
+col15,col16= st.beta_columns([1,1])
+
+with col15:
+    col15.markdown(new[0][17].columns[0])
+    col15.plotly_chart(countplot(new[0][17]))
+
+with col16:
+    col16.markdown(new[0][18].columns[0])
+    col16.plotly_chart(countplot(new[0][18]))
