@@ -140,7 +140,7 @@ new=count(new)
 df_new = pd.DataFrame()
 for i in range(9,17):
 	str_ = new[0][i].columns[0]
-	df_new[str_.split("[")[1].split("]")[0]] = new[0][i]["count"]
+	df_new[str_.split("[")[1].split("]")[0]] = new[0][i]["count"].round(decimals=2).astype(str) + " %"
 
 # st.table(pd.concat([new[0][9][["count"]] ,  new[0][10][["count"]] ]))
 
