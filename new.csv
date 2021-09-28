@@ -1,789 +1,789 @@
 level_0,index,What age range are you?,What is your gender?,What estimated range is your household's monthly income?,"Which area are you from? If not from Karachi please select ""Outside Karachi""",What is your most favourite place in Karachi?,"If you had unlimited funds, how would you change Clifton Beach?",Do you like going to the beach? Why if you do? Why not if you do not?,Do you feel safe while at the beach?,"If yes, then at what time of the day?","If not, why?",On what days do you prefer going to the beach?,At what time are you most likely to visit the beach?,How long do you spend at the beach?,How do you rate the following facilities? [Seating],How do you rate the following facilities? [Cleanliness],How do you rate the following facilities? [Shading Devices],How do you rate the following facilities? [Public Washrooms],How do you rate the following facilities? [Recreational Amenities],How do you rate the following facilities? [Lighting],How do you rate the following facilities? [Pathways/Walking Infrastructure],How do you rate the following facilities? [First Aid],What kind of company do you prefer when at the beach?,Have you ever made any new friends at the beach?
-0,0,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-1,1,25 - 44 years,Male,"175,000 - 200,000 rupees",Kemari,,,,,,,,,,,,,,,,,,,
-2,2,45 years and above,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-3,3,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-4,4,45 years and above,Female,Prefer not to answer,Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-5,5,15 - 24 years,Female,"175,000 - 200,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+0,0,15 - 24 years,Male,"125,001 - 150,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+1,1,25 - 44 years,Male,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
+2,2,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+3,3,25 - 44 years,Male,"75,001 - 100,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
+4,4,25 - 44 years,Female,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
+5,5,15 - 24 years,Male,"100,001 - 125,000 rupees",New Karachi Town,,,,,,,,,,,,,,,,,,,
 6,6,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-7,7,45 years and above,Male,"150,001 - 175,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-8,8,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-9,9,45 years and above,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-10,10,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
-11,11,25 - 44 years,Male,Prefer not to answer,North Nazimabad,,,,,,,,,,,,,,,,,,,
-12,12,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-13,13,15 - 24 years,Male,"125,001 - 150,000 rupees",North Nazimabad,,,,,,,,,,,,,,,,,,,
-14,14,15 - 24 years,Male,Prefer not to answer,Civil Lines,,,,No,,Fear of theft,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-15,14dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-16,14dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-17,14dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-18,14dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-19,15,15 - 24 years,Female,"50,001 - 75,000 rupees",Airport,,,,Yes,Evening,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
-20,16,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Evening,,Both,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Alone,Yes
-20,16dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-21,17,15 - 24 years,Male,Prefer not to answer,Ferozabad,,,,Yes,Morning,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-22,18,25 - 44 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Good,Good,Fair,Fair,Fair,Good,Fair,Poor,Friends,No
-23,19,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Any time of the day,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Fair,Fair,Poor,Fair,Poor,Fair,Poor,Friends,No
-24,20,15 - 24 years,Male,"25,001 - 50,000 rupees",Clifton Cantonment,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Fair,Fair,Poor,Poor,Poor,Poor,Poor,Friends,No
-25,21,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-26,22,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekdays,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Fair,Poor,Fair,Poor,Poor,Poor,Friends,No
-27,23,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Good,Fair,Fair,Poor,Fair,Good,Poor,Poor,Friends,No
-28,24,45 years and above,Male,"150,001 - 175,000 rupees",Nazimabad,,,,Yes,Night,,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Alone,Yes
-28,24dup,45 years and above,Male,"150,001 - 175,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-29,25,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-29,25dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-30,26,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-31,27,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Morning,,Weekdays,10:00am - 2:00pm,More than an hour,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Poor,Friends,No
-32,28,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,10:00am - 2:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-32,28dup,25 - 44 years,Female,"200,001 and above",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-32,28dup,25 - 44 years,Female,"200,001 and above",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-33,28dup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-34,28dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-35,28dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-36,28dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-37,28dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-38,29,15 - 24 years,Female,Prefer not to answer,Jamshed Quarters,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Fair,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-39,29dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-40,30,25 - 44 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,,,,No,,Fear of harrasment,Both,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
-41,31,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,No,,Fear of theft,Weekdays,10:00am - 2:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,Yes
-42,31dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-43,32,15 - 24 years,Male,Prefer not to answer,Baldia,,,,No,,Nothing,Weekends,6:00pm - 10:00pm,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-44,33,15 - 24 years,Male,"Up to 25,000 rupees",Baldia,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Good,Poor,Friends,No
-45,34,25 - 44 years,Female,Prefer not to answer,Nazimabad,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-46,35,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-47,36,25 - 44 years,Male,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-48,36dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-49,37,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,2:00am - 6:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-50,38,15 - 24 years,Female,"25,001 - 50,000 rupees",Orangi,,,,No,,Fear of harrasment,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-51,38dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-52,39,15 - 24 years,Male,"25,001 - 50,000 rupees",Orangi,,,,Yes,Any time of the day,,Both,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-53,40,45 years and above,Male,"25,001 - 50,000 rupees",Garden,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-54,41,15 - 24 years,Male,Prefer not to answer,Saddar,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-55,42,45 years and above,Transgender,"Up to 25,000 rupees",Civil Lines,,,,No,,Fear of theft,Both,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-56,42dup,45 years and above,Transgender,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-57,43,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Hygiene,Weekends,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-58,44,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Afternoon,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-59,45,Below 15 years,Female,Prefer not to answer,Civil Lines,,,,Yes,Evening,,Weekdays,6:00pm - 10:00pm,More than an hour,Good,Poor,Fair,Poor,Fair,Poor,Good,Fair,Family,No
-60,46,15 - 24 years,Female,Prefer not to answer,Harbour,,,,No,,Fear of harrasment,Both,2:00pm - 6:00pm,Less than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-61,46dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-62,47,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Fair,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Friends,No
-63,48,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-63,48dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-64,49,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-65,50,25 - 44 years,Female,Prefer not to answer,Garden,,,,Yes,Any time of the day,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Good,Poor,Family,No
-66,51,15 - 24 years,Male,"Up to 25,000 rupees",New Karachi Town,,,,Yes,Any time of the day,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Good,Good,Poor,Family,No
-67,52,45 years and above,Male,Prefer not to answer,Liaquatabad,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,Yes
-68,53,45 years and above,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-69,54,15 - 24 years,Male,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
-69,54dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-70,55,45 years and above,Female,Prefer not to answer,New Karachi Town,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Good,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
-70,55dup,45 years and above,Female,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-71,56,15 - 24 years,Female,Prefer not to answer,Gulberg,,,,Yes,Afternoon,,Weekdays,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
-72,57,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,10:00am - 2:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-73,57dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
-74,57dupdup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
-75,58,15 - 24 years,Female,"50,001 - 75,000 rupees",Korangi,,,,Yes,Morning,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Fair,Family,No
-76,59,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-77,60,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,No,,Lack of security arrangements,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Poor,Poor,Friends,No
-78,61,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-78,61dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-79,62,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,No,,Lack of security arrangements,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Poor,Poor,Friends,No
-80,63,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-81,63dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-82,63dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-83,63dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-84,63dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-85,64,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Any time of the day,,Weekdays,2:00pm - 6:00pm,Less than an hour,Fair,Poor,Poor,Poor,Fair,Poor,Good,Poor,Friends,No
-86,65,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekends,6:00am - 10:00am,Less than an hour,Good,Good,Good,Good,Poor,Good,Fair,Fair,Friends,No
-87,66,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,No,,"Lots of people there are not good they stare, they make the place polluted ",Both,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-88,67,15 - 24 years,Female,Prefer not to answer,Nazimabad,,,,No,,Fear of harrasment,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Fair,Poor,Poor,Fair,Fair,Poor,Family,No
-89,67dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-90,67dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-91,67dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-92,68,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-92,68dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
-93,68dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-94,68dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-95,68dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-96,69,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,Yes,Afternoon,,Both,6:00am - 10:00am,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-96,69dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-96,69dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-96,69dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-97,70,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Afternoon,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-98,71,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,10:00am - 2:00pm,More than an hour,Fair,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Family,No
-99,72,15 - 24 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekdays,6:00am - 10:00am,Less than an hour,Poor,Fair,Fair,Fair,Poor,Poor,Fair,Fair,Friends,No
-100,72dup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-101,72dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-102,72dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-103,73,15 - 24 years,Female,"Up to 25,000 rupees",Gulzar-e-Hijri,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-104,73dup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-105,73dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-106,73dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-107,73dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-108,74,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekdays,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Fair,Friends,No
-109,75,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
-109,75dup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-110,75dup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-111,75dupdup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-112,75dupdup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-113,76,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,No,,Lack of security arrangements,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
-114,77,15 - 24 years,Female,Prefer not to answer,Liaquatabad,,,,No,,Lack of lighting,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Good,Poor,Friends and family,No
-115,77dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-116,78,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Any time of the day,,Both,2:00am - 6:00am,More than an hour,Fair,Fair,Poor,Poor,Poor,Fair,Good,Poor,Friends,No
-117,79,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulberg,,,,No,,Fear of harrasment,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Fair,Poor,Poor,Poor,Good,Poor,Friends,No
-118,80,15 - 24 years,Female,"125,001 - 150,000 rupees",Ferozabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
-119,81,15 - 24 years,Male,"50,001 - 75,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
-120,82,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
-120,82dup,15 - 24 years,Female,"200,001 and above",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-121,83,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,Less than an hour,Poor,Poor,Fair,Poor,Poor,Poor,Good,Fair,Family,No
-122,84,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
-122,84dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-123,84dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
-124,84dupdup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
-125,85,15 - 24 years,Female,"200,001 and above",Nazimabad,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Alone,No
-126,86,15 - 24 years,Female,Prefer not to answer,Shah Faisal,,,,Yes,Morning,,Both,6:00am - 10:00am,Less than an hour,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Friends,No
-127,87,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Friends,No
-127,87dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-127,87dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,2:00am - 6:00am,,,,,,,,,,,
-128,88,15 - 24 years,Female,"150,001 - 175,000 rupees",Saddar,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-128,88dup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-129,88dup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
-130,88dupdup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
-131,88dupdup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
-132,88dupdup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
-133,89,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-134,89dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-135,89dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-136,89dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-137,90,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,Yes,Afternoon,,Weekdays,6:00am - 10:00am,Less than an hour,Good,Fair,Good,Fair,Fair,Fair,Good,Fair,Friends,No
-137,90dup,15 - 24 years,Female,"200,001 and above",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-138,91,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-139,91dup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-140,91dupdup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-141,92,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-142,92dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-143,92dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-144,92dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-145,92dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-146,93,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,,Yes,Afternoon,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
-147,94,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Good,Good,Good,Good,Good,Good,Good,Good,Friends,Yes
-148,95,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Fair,Friends,No
-148,95dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
-149,96,15 - 24 years,Male,"125,001 - 150,000 rupees",Ferozabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Good,Poor,Friends,No
-150,97,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Family,No
-151,98,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,Less than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
-151,98dup,15 - 24 years,Male,"200,001 and above",,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
-152,99,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,6:00am - 10:00am,Less than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
-152,99dup,15 - 24 years,Male,"50,001 - 75,000 rupees",,,,,,,,,2:00am - 6:00am,,,,,,,,,,,
-153,100,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Fair,Poor,Family,No
-153,100dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-154,101,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Fair,Fair,Fair,Poor,Friends,No
-155,102,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,Yes,Night,,Weekdays,10:00pm - 2:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Fair,Poor,Friends,No
-156,103,15 - 24 years,Female,Prefer not to answer,Karachi Cantonment,,,,No,,Fear of harrasment,Weekdays,10:00pm - 2:00am,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-157,104,15 - 24 years,Female,"50,001 - 75,000 rupees",Shah Faisal,,,,No,,Fear of harrasment,Weekdays,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
-158,105,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
-158,105dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-158,105dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-159,105dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-160,105dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-161,106,15 - 24 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,,No,,Lack of security arrangements,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
-162,107,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,,Yes,Morning,,Both,10:00am - 2:00pm,More than an hour,Fair,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Friends,No
-162,107dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-162,107dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-163,108,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,Less than an hour,Fair,Poor,Poor,Poor,Fair,Fair,Good,Fair,Family,No
-164,109,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,More than an hour,Fair,Fair,Fair,Poor,Poor,Poor,Fair,Poor,Friends,No
-164,109dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-165,110,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Fair,Fair,Fair,Family,No
-166,110dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-167,110dupdup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-168,111,15 - 24 years,Male,"200,001 and above",Airport,,,,Yes,Evening,,Both,6:00am - 10:00am,Less than an hour,Good,Fair,Poor,Poor,Fair,Good,Good,Poor,Friends,No
-169,112,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Fair,Family,No
-170,113,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Both,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-171,114,15 - 24 years,Female,Prefer not to answer,Faisal Cantonment,,,,No,,Fear of theft,Both,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-171,114dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-171,114dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-171,114dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-172,114dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-173,114dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-174,114dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-175,114dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-176,115,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-177,116,45 years and above,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Family,No
-178,117,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,2:00pm - 6:00pm,Less than an hour,Fair,Fair,Fair,Poor,Poor,Poor,Fair,Poor,Family,No
-179,118,15 - 24 years,Female,"200,001 and above",Nazimabad,,,,Yes,Morning,,Weekends,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-180,119,25 - 44 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00pm - 10:00pm,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Good,Fair,Family,No
-181,120,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Good,Fair,Friends,No
-181,120dup,15 - 24 years,Female,"50,001 - 75,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-182,120dup,15 - 24 years,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-183,120dupdup,15 - 24 years,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-184,121,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,No,,Fear of theft,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends and Family,No
-185,121dup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-186,121dupdup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-187,122,45 years and above,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Family,No
-188,123,15 - 24 years,Male,"Up to 25,000 rupees",Nazimabad,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-189,124,25 - 44 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-190,125,45 years and above,Prefer not to answer,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-191,126,25 - 44 years,Male,"Up to 25,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Good,Poor,Fair,Poor,Alone,Yes
-191,126dup,25 - 44 years,Male,"Up to 25,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-192,127,25 - 44 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Poor,Family,No
-193,128,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekends,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Friends,No
-194,129,15 - 24 years,Male,"Up to 25,000 rupees",Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-195,130,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Good,Poor,Fair,Poor,Family,No
-196,131,15 - 24 years,Female,"25,001 - 50,000 rupees",New Karachi Town,,,,No,,Lack of security arrangements,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-197,132,25 - 44 years,Female,Prefer not to answer,Outside Karachi,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-198,133,25 - 44 years,Male,"25,001 - 50,000 rupees",Outside Karachi,,,,Yes,Morning,,Weekends,10:00am - 2:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Pets,No
-198,133dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-199,134,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-199,134dup,25 - 44 years,Male,"50,001 - 75,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-200,135,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Family,No
-200,135dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-200,135dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-201,136,15 - 24 years,Male,"25,001 - 50,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Fair,Good,Family,No
-202,137,15 - 24 years,Male,"25,001 - 50,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Fair,Good,Family,No
-203,138,15 - 24 years,Male,"25,001 - 50,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Fair,Good,Family,No
-204,139,15 - 24 years,Female,Prefer not to answer,Sindh Industrial Trading Estate (SITE),,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Family,No
-205,140,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Poor,Family,No
-206,140dup,25 - 44 years,Male,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
-207,141,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi Creek Cantonment,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-208,142,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,No,,Fear of theft,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-208,142dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-209,142dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-210,143,25 - 44 years,Female,"50,001 - 75,000 rupees",Model Colony,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Fair,Poor,Fair,Fair,Poor,Poor,Family,No
-211,144,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Fair,Poor,Fair,Poor,Poor,Poor,Fair,Poor,Friends,No
-212,145,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Family,No
-212,145dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-213,146,25 - 44 years,Female,Prefer not to answer,Malir Cantonment,,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-214,147,45 years and above,Male,"125,001 - 150,000 rupees",Jamshed Quarters,,,,No,,Reckless speeding by vehicles,Weekdays,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
-215,148,45 years and above,Male,"25,001 - 50,000 rupees",Landhi,,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-216,148dup,45 years and above,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-217,148dupdup,45 years and above,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-218,149,25 - 44 years,Female,"25,001 - 50,000 rupees",Outside Karachi,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-219,150,25 - 44 years,Female,"Up to 25,000 rupees",Korangi,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-220,151,25 - 44 years,Male,"25,001 - 50,000 rupees",Orangi,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Good,Poor,Family,No
-221,152,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Poor,Friends,No
-222,153,45 years and above,Male,"50,001 - 75,000 rupees",Shah Faisal,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-223,153dup,45 years and above,Male,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-224,153dupdup,45 years and above,Male,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-225,154,25 - 44 years,Female,"25,001 - 50,000 rupees",Landhi,,,,No,,Lack of security arrangements,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Fair,Poor,Good,Poor,Poor,Poor,Family,Yes
-226,155,15 - 24 years,Female,"25,001 - 50,000 rupees",Malir Cantonment,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-226,155dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-227,156,45 years and above,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-228,156dup,45 years and above,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-229,156dupdup,45 years and above,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-230,156dupdup,45 years and above,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-231,157,25 - 44 years,Female,Prefer not to answer,Gulberg,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-231,157dup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-232,158,25 - 44 years,Male,Prefer not to answer,Liaquatabad,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-233,159,25 - 44 years,Male,"25,001 - 50,000 rupees",Faisal Cantonment,,,,Yes,Morning,,Weekdays,6:00pm - 10:00pm,Less than an hour,Good,Poor,Poor,Poor,Good,Poor,Good,Poor,Family,No
-234,160,25 - 44 years,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Poor,Family,Yes
-235,161,25 - 44 years,Male,"25,001 - 50,000 rupees",Malir Cantonment,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-236,161dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-237,161dupdup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-238,162,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Good,Poor,Friends,Yes
-238,162dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-239,162dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-240,163,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
-241,164,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Both,6:00am - 10:00am,More than an hour,Fair,Poor,Poor,Poor,Fair,Fair,Poor,Poor,Family,No
-241,164dup,25 - 44 years,Female,"50,001 - 75,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-242,165,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
-243,166,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,Yes,Afternoon,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-244,167,25 - 44 years,Male,"25,001 - 50,000 rupees",Orangi,,,,Yes,Morning,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
-245,168,25 - 44 years,Female,Prefer not to answer,Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-246,169,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-246,169dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-247,169dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-248,169dupdup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
-249,170,25 - 44 years,Male,Prefer not to answer,Korangi,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-250,171,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
-251,172,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Friends,Yes
-251,172dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
-251,172dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
-251,172dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-251,172dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-251,172dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,2:00am - 6:00am,,,,,,,,,,,
-252,173,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Morning,,Weekends,6:00pm - 10:00pm,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
-252,173dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
-253,174,15 - 24 years,Male,"125,001 - 150,000 rupees",Garden,,,,Yes,Evening,,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Fair,Poor,Fair,Poor,Fair,Poor,Family,No
-253,174dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
-254,175,Below 15 years,Female,,Saddar,Parks,,Mujeh samandar jana bohot Pasand ha qk waha sukoon bohot ha,,,,,,,,,,,,,,,,
-255,176,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Zyada say zyada wahn pr environment ka baray ma instructions board lagain gain,Pasand ha q k whan ka environment acha hota h,,,,,,,,,,,,,,,,
-256,177,Below 15 years,Female,,Gulshan-e-Iqbal,Dreamworld,Pehlay tu environment ko clean kron gi phir wahan boohat c facilities k liyai kaam kron gi jis sy logon ko beach main ana acha lagy because. AAJ all itna kachra hota hai k environment  hi kharaab ho jata hai ,Pasand  hai q k wahan ka environment boohat fresh hota hai ,,,,,,,,,,,,,,,,
-257,178,Below 15 years,Female,,Karachi Cantonment,Sea View,Wahan ki ache se safai krwaenge or washroom bnwaien ge,G han Mujhe Pasand Hai because I love swimming,,,,,,,,,,,,,,,,
-258,179,Below 15 years,Female,,Garden,Sea View,Washrooms bnaungi,Beautiful view,,,,,,,,,,,,,,,,
-259,180,Below 15 years,Female,,Garden,Sea View,Washrooms bnaungi,Beautiful view,,,,,,,,,,,,,,,,
-260,181,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,,Gi pasand hai kyun kay vahan fresh air hoti hai or environment bhi acha hota hai.,,,,,,,,,,,,,,,,
-261,182,Below 15 years,Female,,Jamshed Quarters,Mubarak village,Yeah! I have provid public washroom and dustbin,Yes I like to go beach because I fill very relex and must more thing I spent my time will my family,,,,,,,,,,,,,,,,
-262,183,Below 15 years,Female,,Gulshan-e-Iqbal,,"I will try my best to make beach Good, I will like to plant a lot of coconut trees there & I will put Dustbins everywhere there so that there is no dirt and I will put umbrellas for shade there to enhance the beauty of the Sea, I will make various arrangements to save the sea from dirty water etc.
+7,7,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+8,8,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+9,9,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+10,10,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+11,11,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+12,12,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+13,13,25 - 44 years,Female,"175,000 - 200,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+14,14,15 - 24 years,Prefer not to answer,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+15,15,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+16,16,45 years and above,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+17,17,25 - 44 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+18,18,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+19,19,15 - 24 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+20,20,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+21,21,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+22,22,15 - 24 years,Male,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+23,23,15 - 24 years,Male,"100,001 - 125,000 rupees",Airport,,,,,,,,,,,,,,,,,,,
+24,24,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+25,25,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+26,26,25 - 44 years,Male,"200,001 and above",Shah Faisal,,,,,,,,,,,,,,,,,,,
+27,27,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+28,28,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+29,29,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+30,30,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+31,31,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+32,32,15 - 24 years,Male,"75,001 - 100,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+33,33,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+34,34,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+35,35,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+36,36,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+37,37,45 years and above,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+38,38,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+39,39,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+40,40,45 years and above,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+41,41,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+42,42,25 - 44 years,Male,"75,001 - 100,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+43,43,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+44,44,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,,,,,,,,,,,,,,,,
+45,45,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+46,46,45 years and above,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+47,47,25 - 44 years,Male,"175,000 - 200,000 rupees",Kemari,,,,,,,,,,,,,,,,,,,
+48,48,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+49,49,45 years and above,Female,"75,001 - 100,000 rupees",,,,,,,,,,,,,,,,,,,,
+50,50,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+51,51,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+52,52,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+53,53,45 years and above,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+54,54,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+55,55,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+56,56,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+57,57,25 - 44 years,Female,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
+58,58,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+59,59,25 - 44 years,Female,"175,000 - 200,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
+60,60,15 - 24 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+61,61,45 years and above,Male,"200,001 and above",Saddar,,,,,,,,,,,,,,,,,,,
+62,62,25 - 44 years,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+63,63,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+64,64,25 - 44 years,Male,"100,001 - 125,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+65,65,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+66,66,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+67,67,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+68,68,15 - 24 years,Male,Prefer not to answer,Orangi,,,,,,,,,,,,,,,,,,,
+69,69,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+70,70,15 - 24 years,Female,"125,001 - 150,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+71,71,15 - 24 years,Male,"175,000 - 200,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
+72,72,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+73,73,25 - 44 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+74,74,45 years and above,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+75,75,15 - 24 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+76,76,25 - 44 years,Male,"50,001 - 75,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
+77,77,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+78,78,45 years and above,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+79,79,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
+80,80,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+81,81,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+82,82,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+83,83,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+84,84,25 - 44 years,Female,"200,001 and above",Gulberg,,,,,,,,,,,,,,,,,,,
+85,85,25 - 44 years,Female,"175,000 - 200,000 rupees",Saddar,,,,,,,,,,,,,,,,,,,
+86,86,25 - 44 years,Female,Prefer not to answer,Civil Lines,,,,,,,,,,,,,,,,,,,
+87,87,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+88,88,25 - 44 years,Female,Prefer not to answer,Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+89,89,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+90,90,15 - 24 years,Female,"100,001 - 125,000 rupees",Liaquatabad,,,,,,,,,,,,,,,,,,,
+91,91,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+92,92,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+93,93,25 - 44 years,Male,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+94,94,45 years and above,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+95,95,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+96,96,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+97,97,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+98,98,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+99,99,25 - 44 years,Prefer not to answer,"25,001 - 50,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+100,100,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+101,101,15 - 24 years,Female,"175,000 - 200,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+102,102,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+103,103,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+104,104,25 - 44 years,Male,"100,001 - 125,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+105,105,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+106,106,15 - 24 years,Male,"200,001 and above",Nazimabad,,,,,,,,,,,,,,,,,,,
+107,107,45 years and above,Female,Prefer not to answer,Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+108,108,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+109,109,15 - 24 years,Female,"200,001 and above",Garden,,,,,,,,,,,,,,,,,,,
+110,110,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+111,111,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+112,112,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+113,113,15 - 24 years,Female,"175,000 - 200,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+114,114,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+115,115,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+116,116,25 - 44 years,Female,"75,001 - 100,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+117,117,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+118,118,25 - 44 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+119,119,45 years and above,Male,"150,001 - 175,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+120,120,15 - 24 years,Male,"75,001 - 100,000 rupees",Liaquatabad,,,,,,,,,,,,,,,,,,,
+121,121,15 - 24 years,Male,"50,001 - 75,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+122,122,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+123,123,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+124,124,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+125,125,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+126,126,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+127,127,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+128,128,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+129,129,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+130,130,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,,,,,,,,,,,,,,,,,
+131,131,Below 15 years,Female,,Jamshed Quarters,Clifton,Mei Clean karo ghi Clifton ko,Mujhe Samandar jaana pasand ha q ka mujhe panic wali jagha bohot pasand ha aur samandar jany mei bohot maza at ha samandar mei hum bohot enjoy krty ha aur bilkul fresh fell krty ha ,,,,,,,,,,,,,,,,
+132,132,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+133,133,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
+134,134,Below 15 years,Female,,Gulshan-e-Iqbal,Pavillion club,Garbage,Samandar hai q kai waha pani hai,,,,,,,,,,,,,,,,
+135,135,Below 15 years,Female,,Jamshed Quarters,Sea View,Main wanhan safai karwaoungi gi kuch restrictions lagaoon gi or shayad kids playing area banaoon,I love to go beach because i love water and i love enjoying in water and rides on camel and love to eat street food just because i am not prefer to much because in karachi beach there is to much garbage and dirtyness.,,,,,,,,,,,,,,,,
+136,136,15 - 24 years,Male,"125,001 - 150,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+137,137,Below 15 years,Female,,Gulshan-e-Iqbal,,Make public toilet and restaurant ,,,,,,,,,,,,,,,,,
+138,138,Below 15 years,Female,,Garden,"Clifton, Tomb of Quaid, Hill Park, PAF Museum, Portgrand, Kimari, Karachi Zoo",Agr kabhi aisa huwa to me awam ko har sahulat muyassar krungi ,Pasand h q k wahan ja kr hum relax feel krte hain or hum wahan k manazir se lutf andoz hote hain or hame apne allah ka shukr ada krna chahiye k usne hame samandar jaisi khoobsurat naimat se nawaza h,,,,,,,,,,,,,,,,
+139,139,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+140,140,Below 15 years,Female,,Gulshan-e-Iqbal,,Washroom and  restaurants ,,,,,,,,,,,,,,,,,
+141,141,15 - 24 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+142,142,Below 15 years,Female,,Liaquatabad,Clifton ,,G passand hai because enjoyment ky liy,,,,,,,,,,,,,,,,
+143,143,Below 15 years,Female,,Liaquatabad,Clifton ,,G passand hai because enjoyment ky liy,,,,,,,,,,,,,,,,
+144,144,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Ager mary pass beshumar paisy hoon to   I clean clifton and I fit the light in hole clifton,I like seaside because I feel peace,,,,,,,,,,,,,,,,
+145,145,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+146,146,Below 15 years,Female,,New Karachi Town,,,Pasand ha q ka va par environment achi ha,,,,,,,,,,,,,,,,
+147,147,Below 15 years,Female,,Garden,Clifton,,Yes i love beaches bcz i enjoyed it place,,,,,,,,,,,,,,,,
+148,148,Below 15 years,Female,,Gulshan-e-Iqbal,Tomb of Quaid ,I will clean it!,G nhi pasand mujhe pani say dar lagta hai,,,,,,,,,,,,,,,,
+149,149,Below 15 years,Female,,Garden,Parks,Cleanless  kalea ,G pasand ha because waha pa har chez natural hoti ha ,,,,,,,,,,,,,,,,
+150,150,Below 15 years,Female,,Jamshed Quarters,Turtle beach and Portgrand ,Cleanliness and Safety for tourists,"I love to go to Beaches because, walking on sand & watching the waves has an extremely calming effect on me. Just watching the sun go down over the sea is simply breathtaking. It is also a great time for self refection and introspection.",,,,,,,,,,,,,,,,
+151,151,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+152,152,Below 15 years,Female,,Gadap,Sea View,Safai,,,,,,,,,,,,,,,,,
+153,153,25 - 44 years,Male,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
+154,154,Below 15 years,Female,,Korangi,Sea View,Nothing,Mughy samander jana passand h...Q k wahan taza or saff air hoti h...,,,,,,,,,,,,,,,,
+155,155,45 years and above,Male,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+156,156,25 - 44 years,Male,"100,001 - 125,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+157,157,25 - 44 years,Female,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+158,158,Below 15 years,Female,,Saddar,Parks,,Mujeh samandar jana bohot Pasand ha qk waha sukoon bohot ha,,,,,,,,,,,,,,,,
+159,159,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Zyada say zyada wahn pr environment ka baray ma instructions board lagain gain,Pasand ha q k whan ka environment acha hota h,,,,,,,,,,,,,,,,
+160,160,Below 15 years,Female,,Gulshan-e-Iqbal,Dreamworld,Pehlay tu environment ko clean kron gi phir wahan boohat c facilities k liyai kaam kron gi jis sy logon ko beach main ana acha lagy because. AAJ all itna kachra hota hai k environment  hi kharaab ho jata hai ,Pasand  hai q k wahan ka environment boohat fresh hota hai ,,,,,,,,,,,,,,,,
+161,161,Below 15 years,Female,,Karachi Cantonment,Sea View,Wahan ki ache se safai krwaenge or washroom bnwaien ge,G han Mujhe Pasand Hai because I love swimming,,,,,,,,,,,,,,,,
+162,162,Below 15 years,Female,,Garden,Sea View,Washrooms bnaungi,Beautiful view,,,,,,,,,,,,,,,,
+163,163,Below 15 years,Female,,Garden,Sea View,Washrooms bnaungi,Beautiful view,,,,,,,,,,,,,,,,
+164,164,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,,Gi pasand hai kyun kay vahan fresh air hoti hai or environment bhi acha hota hai.,,,,,,,,,,,,,,,,
+165,165,Below 15 years,Female,,Jamshed Quarters,Mubarak village,Yeah! I have provid public washroom and dustbin,Yes I like to go beach because I fill very relex and must more thing I spent my time will my family,,,,,,,,,,,,,,,,
+166,166,15 - 24 years,Male,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+167,167,Below 15 years,Female,,Gulshan-e-Iqbal,,"I will try my best to make beach Good, I will like to plant a lot of coconut trees there & I will put Dustbins everywhere there so that there is no dirt and I will put umbrellas for shade there to enhance the beauty of the Sea, I will make various arrangements to save the sea from dirty water etc.
 And I will come to see the beach every year  so that every problem can be solved immediately 🙂.",I love sea because I find peace there and  there is only one sea in Pakistan and not every country has an ocean so we are lucky to have it.,,,,,,,,,,,,,,,,
-263,184,Below 15 years,Female,,Garden,Sea View,Safai,,,,,,,,,,,,,,,,,
-264,185,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Cleanliness,"Yes,for enjoy",,,,,,,,,,,,,,,,
-265,186,Below 15 years,Female,,Gulshan-e-Iqbal,Pavillion club,Garbage,Samandar hai q kai waha pani hai,,,,,,,,,,,,,,,,
-266,187,Below 15 years,Female,,Jamshed Quarters,Sea View,Main wanhan safai karwaoungi gi kuch restrictions lagaoon gi or shayad kids playing area banaoon,I love to go beach because i love water and i love enjoying in water and rides on camel and love to eat street food just because i am not prefer to much because in karachi beach there is to much garbage and dirtyness.,,,,,,,,,,,,,,,,
-267,188,Below 15 years,Female,,Gulshan-e-Iqbal,,Make public toilet and restaurant ,,,,,,,,,,,,,,,,,
-268,189,Below 15 years,Female,,Garden,"Clifton, Tomb of Quaid, Hill Park, PAF Museum, Portgrand, Kimari, Karachi Zoo",Agr kabhi aisa huwa to me awam ko har sahulat muyassar krungi ,Pasand h q k wahan ja kr hum relax feel krte hain or hum wahan k manazir se lutf andoz hote hain or hame apne allah ka shukr ada krna chahiye k usne hame samandar jaisi khoobsurat naimat se nawaza h,,,,,,,,,,,,,,,,
-269,190,Below 15 years,Female,,Gulshan-e-Iqbal,,Washroom and  restaurants ,,,,,,,,,,,,,,,,,
-270,191,Below 15 years,Female,,Liaquatabad,Clifton ,,G passand hai because enjoyment ky liy,,,,,,,,,,,,,,,,
-271,192,Below 15 years,Female,,Liaquatabad,Clifton ,,G passand hai because enjoyment ky liy,,,,,,,,,,,,,,,,
-272,193,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Ager mary pass beshumar paisy hoon to   I clean clifton and I fit the light in hole clifton,I like seaside because I feel peace,,,,,,,,,,,,,,,,
-273,194,Below 15 years,Female,,New Karachi Town,,,Pasand ha q ka va par environment achi ha,,,,,,,,,,,,,,,,
-274,195,Below 15 years,Female,,Garden,Clifton,,Yes i love beaches bcz i enjoyed it place,,,,,,,,,,,,,,,,
-275,196,Below 15 years,Female,,Garden,Parks,Cleanless  kalea ,G pasand ha because waha pa har chez natural hoti ha ,,,,,,,,,,,,,,,,
-276,197,Below 15 years,Female,,Jamshed Quarters,Turtle beach and Portgrand ,Cleanliness and Safety for tourists,"I love to go to Beaches because, walking on sand & watching the waves has an extremely calming effect on me. Just watching the sun go down over the sea is simply breathtaking. It is also a great time for self refection and introspection.",,,,,,,,,,,,,,,,
-277,198,Below 15 years,Female,,Gadap,Sea View,Safai,,,,,,,,,,,,,,,,,
-278,199,Below 15 years,Female,,Jamshed Quarters,Clifton,Mei Clean karo ghi Clifton ko,Mujhe Samandar jaana pasand ha q ka mujhe panic wali jagha bohot pasand ha aur samandar jany mei bohot maza at ha samandar mei hum bohot enjoy krty ha aur bilkul fresh fell krty ha ,,,,,,,,,,,,,,,,
-279,200,Below 15 years,Female,,Korangi,Sea View,Nothing,Mughy samander jana passand h...Q k wahan taza or saff air hoti h...,,,,,,,,,,,,,,,,
-280,201,Below 15 years,Female,,Gulshan-e-Iqbal,Tomb of Quaid ,I will clean it!,G nhi pasand mujhe pani say dar lagta hai,,,,,,,,,,,,,,,,
-281,202,Below 15 years,Female,,Garden,Sea View,Wha par garden bnaoungi ,Yes pasand h ,,,,,,,,,,,,,,,,
-282,203,Below 15 years,Female,,Garden,Sea View,,,,,,,,,,,,,,,,,,
-283,204,Below 15 years,Female,,Garden,Sea View,Mein safai ki surtihal ko behtarr karungiii,I LIKE TO GO ON BEACHES BECAUSE I LOVE WATER. ,,,,,,,,,,,,,,,,
-284,205,Below 15 years,Female,,Lyari,Sea View,Kaafi changes krenge,I like sea sides because in these places we enjoy alot,,,,,,,,,,,,,,,,
-285,206,Below 15 years,Female,,Garden,,,,,,,,,,,,,,,,,,,
-286,207,Below 15 years,Female,,Garden,,,,,,,,,,,,,,,,,,,
-287,208,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Wesy to main aford nahi karsaktie lekin agar meray oass beshumar paisay hotay main wahan par dheer sary garbig box rakhti aur wahann par benchies lagati takey log aram sy beth sakhay you know kch lag zameen par nahi beth saktay,Moujhy samndar jana bht pasand hai q key moujhy wHan ja kar jo mazah aata hai wo kahein nahi aata,,,,,,,,,,,,,,,,
-288,209,Below 15 years,Female,,Garden,Clifton,Garbage ki safai.,"G, per ziyada nahi, family k Sath jate hein to tafreeh hojati hai.",,,,,,,,,,,,,,,,
-289,210,Below 15 years,Female,,Jamshed Quarters,Portgrand,Wahan ki safai k liyey 1 department bnwaeingy Jo safai ka khaas khyal rkheingy ,"Passnd h q k family k sth wahan bht acha Time guzrta h or enjoy krty hein
+168,168,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+169,169,Below 15 years,Female,,Garden,Sea View,Safai,,,,,,,,,,,,,,,,,
+170,170,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+171,171,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Cleanliness,"Yes,for enjoy",,,,,,,,,,,,,,,,
+172,172,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+173,173,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+174,174,Below 15 years,Female,,Jamshed Quarters,Portgrand,Wahan ki safai k liyey 1 department bnwaeingy Jo safai ka khaas khyal rkheingy ,"Passnd h q k family k sth wahan bht acha Time guzrta h or enjoy krty hein
 ",,,,,,,,,,,,,,,,
-290,211,Below 15 years,Female,,Garden,Clifton,Safai ka khas intezam karungi or gundgi phelane or khacha idher udher phenkne par fine lahaongi ,Han pasand hai kion k kafi enjoyment karne ko milti hai or cliften ghumne or tafreeh k liye achi jaga hai,,,,,,,,,,,,,,,,
-291,212,Below 15 years,Female,,Garden,Clifton,Dosben le gay,G passand h q k wo bht beautiful hota ha,,,,,,,,,,,,,,,,
-292,213,25 - 44 years,Male,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
-293,214,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-294,215,25 - 44 years,Male,"75,001 - 100,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
-295,216,25 - 44 years,Female,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
-296,217,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-297,218,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-298,219,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-299,220,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-300,221,25 - 44 years,Female,"175,000 - 200,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-301,222,15 - 24 years,Prefer not to answer,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-302,223,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-303,224,45 years and above,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-304,225,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-305,226,15 - 24 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-306,227,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-307,228,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-308,229,15 - 24 years,Male,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-309,230,15 - 24 years,Male,"100,001 - 125,000 rupees",Airport,,,,,,,,,,,,,,,,,,,
-310,231,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-311,232,25 - 44 years,Male,"200,001 and above",Shah Faisal,,,,,,,,,,,,,,,,,,,
-312,233,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-313,234,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-314,235,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-315,236,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-316,237,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-317,238,15 - 24 years,Male,"125,001 - 150,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-318,239,15 - 24 years,Male,"100,001 - 125,000 rupees",New Karachi Town,,,,,,,,,,,,,,,,,,,
-319,240,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-320,241,25 - 44 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-321,242,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-322,243,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-323,244,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-324,245,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-325,246,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-326,247,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-327,248,45 years and above,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-328,249,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-329,250,15 - 24 years,Male,"75,001 - 100,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-330,251,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-331,252,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-332,253,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-333,254,45 years and above,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-334,255,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,,,,,,,,,,,,,,,,
-335,256,25 - 44 years,Male,"75,001 - 100,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-336,257,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-337,258,45 years and above,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-338,259,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-339,260,45 years and above,Female,"75,001 - 100,000 rupees",,,,,,,,,,,,,,,,,,,,
-340,261,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-341,262,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-342,263,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-343,264,45 years and above,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-344,265,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
-345,266,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-346,267,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-347,268,25 - 44 years,Female,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
-348,269,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-349,270,25 - 44 years,Female,"175,000 - 200,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
-350,271,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-351,272,15 - 24 years,Female,"125,001 - 150,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-352,273,15 - 24 years,Male,"175,000 - 200,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
-353,274,15 - 24 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-354,275,45 years and above,Male,"200,001 and above",Saddar,,,,,,,,,,,,,,,,,,,
-355,276,25 - 44 years,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-356,277,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-357,278,25 - 44 years,Male,"100,001 - 125,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-358,279,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-359,280,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-360,281,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-361,282,25 - 44 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-362,283,45 years and above,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-363,284,15 - 24 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-364,285,25 - 44 years,Male,"50,001 - 75,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
-365,286,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-366,287,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
-367,288,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-368,289,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-369,290,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-370,291,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-371,292,25 - 44 years,Female,"200,001 and above",Gulberg,,,,,,,,,,,,,,,,,,,
-372,293,25 - 44 years,Female,"175,000 - 200,000 rupees",Saddar,,,,,,,,,,,,,,,,,,,
-373,294,25 - 44 years,Female,Prefer not to answer,Civil Lines,,,,,,,,,,,,,,,,,,,
-374,295,25 - 44 years,Male,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-375,296,25 - 44 years,Female,Prefer not to answer,Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-376,297,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-377,298,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-378,299,25 - 44 years,Male,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-379,300,45 years and above,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-380,301,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-381,302,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-382,303,25 - 44 years,Female,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-383,304,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-384,305,25 - 44 years,Prefer not to answer,"25,001 - 50,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-385,306,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-386,307,15 - 24 years,Male,Prefer not to answer,Orangi,,,,,,,,,,,,,,,,,,,
-387,308,15 - 24 years,Female,"100,001 - 125,000 rupees",Liaquatabad,,,,,,,,,,,,,,,,,,,
-388,309,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-389,310,15 - 24 years,Female,"175,000 - 200,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-390,311,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-391,312,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-392,313,25 - 44 years,Male,"100,001 - 125,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-393,314,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
-394,315,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-395,316,15 - 24 years,Male,"200,001 and above",Nazimabad,,,,,,,,,,,,,,,,,,,
-396,317,15 - 24 years,Female,"200,001 and above",Garden,,,,,,,,,,,,,,,,,,,
-397,318,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-398,319,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-399,320,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-400,321,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-401,322,25 - 44 years,Female,"75,001 - 100,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-402,323,25 - 44 years,Female,"75,001 - 100,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-403,324,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-404,325,15 - 24 years,Male,"50,001 - 75,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-405,326,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-406,327,15 - 24 years,Male,"75,001 - 100,000 rupees",Liaquatabad,,,,,,,,,,,,,,,,,,,
-407,328,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-408,329,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-409,330,25 - 44 years,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-410,331,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-411,332,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-412,333,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-413,334,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,,,,,,,,,,,,,,,,,
-414,335,15 - 24 years,Male,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-415,336,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-416,337,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-417,338,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
-418,339,15 - 24 years,Male,"125,001 - 150,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-419,340,15 - 24 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-420,341,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-421,342,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-422,343,25 - 44 years,Male,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
-423,344,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-424,345,45 years and above,Male,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-425,346,25 - 44 years,Male,"100,001 - 125,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-426,347,25 - 44 years,Female,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-427,348,25 - 44 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-428,349,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-429,350,15 - 24 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-430,351,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-431,352,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-432,353,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-433,354,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-434,355,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-435,356,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-436,357,15 - 24 years,Prefer not to answer,"25,001 - 50,000 rupees",Lyari,,,,,,,,,,,,,,,,,,,
-437,358,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-438,359,15 - 24 years,Female,Prefer not to answer,Saddar,,,,,,,,,,,,,,,,,,,
-439,360,15 - 24 years,Female,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-440,361,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-441,362,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-442,363,15 - 24 years,Male,"75,001 - 100,000 rupees",Saddar,,,,,,,,,,,,,,,,,,,
-443,364,15 - 24 years,Male,"50,001 - 75,000 rupees",Mauripur,,,,,,,,,,,,,,,,,,,
-444,365,15 - 24 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-445,366,15 - 24 years,Male,"125,001 - 150,000 rupees",Saddar,,,,,,,,,,,,,,,,,,,
-446,367,15 - 24 years,Female,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
-447,368,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-448,369,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-449,370,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-450,371,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-451,372,25 - 44 years,Male,"100,001 - 125,000 rupees",Landhi,,,,,,,,,,,,,,,,,,,
-452,373,15 - 24 years,Female,"25,001 - 50,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-453,374,15 - 24 years,Male,Prefer not to answer,Gulberg,,,,,,,,,,,,,,,,,,,
-454,375,15 - 24 years,Female,"75,001 - 100,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-455,376,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-456,377,15 - 24 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),,,,,,,,,,,,,,,,,,,
-457,378,15 - 24 years,Female,"100,001 - 125,000 rupees",Model Colony,,,,,,,,,,,,,,,,,,,
-458,379,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-459,380,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-460,381,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-461,382,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-462,383,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-463,384,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-464,385,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-465,386,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-466,387,25 - 44 years,Male,Prefer not to answer,Shah Faisal,,,,,,,,,,,,,,,,,,,
-467,388,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-468,389,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-469,390,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-470,391,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-471,392,15 - 24 years,Female,"50,001 - 75,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-472,393,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-473,394,15 - 24 years,Female,Prefer not to answer,Korangi Creek Cantonment,,,,,,,,,,,,,,,,,,,
-474,395,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-475,396,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-476,397,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-477,398,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-478,399,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-479,400,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-480,401,45 years and above,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-481,402,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-482,403,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-483,404,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-484,405,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-485,406,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-486,407,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-487,408,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-488,409,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-489,410,45 years and above,Female,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
-490,411,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-491,412,25 - 44 years,Male,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-492,413,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,,,,,,,,,,,,,,,,
-493,414,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-494,415,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-495,416,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-496,417,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
-497,418,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-498,419,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
-499,420,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-500,421,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-501,422,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-502,423,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-503,424,25 - 44 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-504,425,15 - 24 years,Prefer not to answer,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-505,426,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-506,427,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-507,428,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-508,429,45 years and above,Male,,Outside Karachi,,,,,,,,,,,,,,,,,,,
-509,430,25 - 44 years,Male,"25,001 - 50,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-510,431,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-511,432,25 - 44 years,Female,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-512,433,15 - 24 years,Female,Prefer not to answer,Bin Qasim,,,,,,,,,,,,,,,,,,,
-513,434,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-514,435,25 - 44 years,Male,"175,000 - 200,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-515,436,15 - 24 years,Female,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
-516,437,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-517,438,15 - 24 years,Female,"125,001 - 150,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
-518,439,15 - 24 years,Male,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-519,440,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-520,441,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-521,442,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-522,443,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-523,444,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-524,445,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-525,446,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-526,447,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-527,448,15 - 24 years,Female,"150,001 - 175,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-528,449,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-529,450,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
-530,451,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-531,452,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-532,453,45 years and above,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-533,454,15 - 24 years,Female,"150,001 - 175,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-534,455,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-535,456,25 - 44 years,Male,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-536,457,15 - 24 years,Prefer not to answer,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-537,458,25 - 44 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-538,459,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-539,460,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-540,461,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-541,462,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-542,463,15 - 24 years,Female,"200,001 and above",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-543,464,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-544,465,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-545,466,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-546,467,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-547,468,25 - 44 years,Male,"Up to 25,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-548,469,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-549,470,15 - 24 years,Male,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
-550,471,25 - 44 years,Male,"100,001 - 125,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
-551,472,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-552,473,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-553,474,15 - 24 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-554,475,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-555,476,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-556,477,15 - 24 years,Male,"Up to 25,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-557,478,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-558,479,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-559,480,15 - 24 years,Male,"100,001 - 125,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-560,481,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-561,482,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-562,483,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-563,484,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-564,485,25 - 44 years,Male,"50,001 - 75,000 rupees",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
-565,486,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-566,487,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-567,488,25 - 44 years,Male,"Up to 25,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
-568,489,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-569,490,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-570,491,15 - 24 years,Female,"200,001 and above",Gulberg,,,,,,,,,,,,,,,,,,,
-571,492,25 - 44 years,Male,"125,001 - 150,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-572,493,25 - 44 years,Male,"100,001 - 125,000 rupees",Model Colony,,,,,,,,,,,,,,,,,,,
-573,494,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-574,495,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-575,496,25 - 44 years,Male,"200,001 and above",Bin Qasim,,,,,,,,,,,,,,,,,,,
-576,497,45 years and above,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-577,498,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
-578,499,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-579,500,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-580,501,25 - 44 years,Female,"Up to 25,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-581,502,15 - 24 years,Male,"Up to 25,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
-582,503,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-583,504,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-584,505,25 - 44 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-585,506,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-586,507,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-587,508,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-588,509,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-589,510,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-590,511,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-591,512,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-592,513,25 - 44 years,Male,"50,001 - 75,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-593,514,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-594,515,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
-595,516,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-596,517,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-597,518,25 - 44 years,Female,"100,001 - 125,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
-598,519,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-599,520,25 - 44 years,Female,"150,001 - 175,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-600,521,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-601,522,25 - 44 years,Male,"50,001 - 75,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-602,523,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-603,524,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-604,525,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-605,526,25 - 44 years,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-606,527,15 - 24 years,Prefer not to answer,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
-607,528,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-608,529,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-609,530,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-610,531,45 years and above,Male,Prefer not to answer,Gadap,,,,,,,,,,,,,,,,,,,
-611,532,15 - 24 years,Female,"150,001 - 175,000 rupees",Korangi Creek Cantonment,,,,,,,,,,,,,,,,,,,
-612,533,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-613,534,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-614,535,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-615,536,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-616,537,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-617,538,25 - 44 years,Non-binary,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-618,539,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-619,540,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-620,541,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-621,542,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-622,543,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-623,544,15 - 24 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-624,545,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-625,546,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-626,547,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-627,548,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-628,549,15 - 24 years,Prefer not to answer,"75,001 - 100,000 rupees",Aram Bagh,,,,,,,,,,,,,,,,,,,
-629,550,15 - 24 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-630,551,15 - 24 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-631,552,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-632,553,15 - 24 years,Male,"150,001 - 175,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-633,554,15 - 24 years,Transgender,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-634,555,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-635,556,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-636,557,25 - 44 years,Female,"175,000 - 200,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-637,558,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-638,559,15 - 24 years,Female,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-639,560,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-640,561,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-641,562,25 - 44 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-642,563,25 - 44 years,Male,"50,001 - 75,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
-643,564,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-644,565,15 - 24 years,Female,"175,000 - 200,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-645,566,15 - 24 years,Male,"125,001 - 150,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-646,567,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-647,568,25 - 44 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-648,569,15 - 24 years,Male,"175,000 - 200,000 rupees",Airport,,,,,,,,,,,,,,,,,,,
-649,570,25 - 44 years,Female,"125,001 - 150,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-650,571,15 - 24 years,Female,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
-651,572,25 - 44 years,Non-binary,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-652,573,15 - 24 years,Transgender,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
-653,574,15 - 24 years,Male,"Up to 25,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-654,575,25 - 44 years,Male,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
-655,576,25 - 44 years,Female,"200,001 and above",Gulberg,,,,,,,,,,,,,,,,,,,
-656,577,25 - 44 years,Female,"75,001 - 100,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-657,578,25 - 44 years,Female,"75,001 - 100,000 rupees",,,,,,,,,,,,,,,,,,,,
-658,579,25 - 44 years,Female,"175,000 - 200,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
-659,580,25 - 44 years,Female,"50,001 - 75,000 rupees",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
-660,581,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-661,582,25 - 44 years,Female,"75,001 - 100,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-662,583,15 - 24 years,Female,"200,001 and above",Nazimabad,,,,,,,,,,,,,,,,,,,
-663,584,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-664,585,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-665,586,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-666,587,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-667,588,15 - 24 years,Female,"100,001 - 125,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
-668,589,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-669,590,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-670,591,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-671,592,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
-672,593,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-673,594,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-674,595,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-675,596,15 - 24 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-676,597,15 - 24 years,Male,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-677,598,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-678,599,25 - 44 years,Male,"75,001 - 100,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
-679,600,25 - 44 years,Male,"25,001 - 50,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-680,601,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-681,602,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-682,603,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
-683,604,45 years and above,Male,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-684,605,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-685,606,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
-686,607,25 - 44 years,Male,Prefer not to answer,Airport,,,,,,,,,,,,,,,,,,,
-687,608,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-688,609,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-689,610,45 years and above,Female,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
-690,611,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-691,612,25 - 44 years,Transgender,"25,001 - 50,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
-692,613,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-693,614,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-694,615,25 - 44 years,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-695,616,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-696,617,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-697,618,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-698,619,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-699,620,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-700,621,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-701,622,25 - 44 years,Male,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-702,623,25 - 44 years,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
-703,624,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-704,625,45 years and above,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-705,626,25 - 44 years,Male,"150,001 - 175,000 rupees",Airport,,,,,,,,,,,,,,,,,,,
-706,627,25 - 44 years,Female,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
-707,628,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-708,629,25 - 44 years,Male,"175,000 - 200,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
-709,630,25 - 44 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-710,631,25 - 44 years,Male,"50,001 - 75,000 rupees",Sindh Industrial Trading Estate (SITE),,,,,,,,,,,,,,,,,,,
-711,632,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-712,633,25 - 44 years,Male,"100,001 - 125,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
-713,634,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-714,635,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-715,636,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-716,637,45 years and above,Female,Prefer not to answer,North Nazimabad Town,,,,,,,,,,,,,,,,,,,
-717,638,25 - 44 years,Male,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
-718,639,15 - 24 years,Female,"200,001 and above",Garden,,,,,,,,,,,,,,,,,,,
-719,640,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
-720,641,25 - 44 years,Male,"150,001 - 175,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
-721,642,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-722,643,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
-723,644,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,,,,,,,,,,,,,,,,
-724,645,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
-725,646,25 - 44 years,Female,Prefer not to answer,Karachi Cantonment,,,,,,,,,,,,,,,,,,,
-726,647,45 years and above,Male,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
-727,648,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+175,175,Below 15 years,Female,,Garden,Sea View,Wha par garden bnaoungi ,Yes pasand h ,,,,,,,,,,,,,,,,
+176,176,Below 15 years,Female,,Garden,Sea View,,,,,,,,,,,,,,,,,,
+177,177,Below 15 years,Female,,Garden,Clifton,Safai ka khas intezam karungi or gundgi phelane or khacha idher udher phenkne par fine lahaongi ,Han pasand hai kion k kafi enjoyment karne ko milti hai or cliften ghumne or tafreeh k liye achi jaga hai,,,,,,,,,,,,,,,,
+178,178,Below 15 years,Female,,Garden,Sea View,Mein safai ki surtihal ko behtarr karungiii,I LIKE TO GO ON BEACHES BECAUSE I LOVE WATER. ,,,,,,,,,,,,,,,,
+179,179,Below 15 years,Female,,Lyari,Sea View,Kaafi changes krenge,I like sea sides because in these places we enjoy alot,,,,,,,,,,,,,,,,
+180,180,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+181,181,Below 15 years,Female,,Garden,,,,,,,,,,,,,,,,,,,
+182,182,Below 15 years,Female,,Garden,,,,,,,,,,,,,,,,,,,
+183,183,Below 15 years,Female,,Gulshan-e-Iqbal,Sea View,Wesy to main aford nahi karsaktie lekin agar meray oass beshumar paisay hotay main wahan par dheer sary garbig box rakhti aur wahann par benchies lagati takey log aram sy beth sakhay you know kch lag zameen par nahi beth saktay,Moujhy samndar jana bht pasand hai q key moujhy wHan ja kar jo mazah aata hai wo kahein nahi aata,,,,,,,,,,,,,,,,
+184,184,Below 15 years,Female,,Garden,Clifton,Garbage ki safai.,"G, per ziyada nahi, family k Sath jate hein to tafreeh hojati hai.",,,,,,,,,,,,,,,,
+185,185,45 years and above,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+186,186,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+187,187,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+188,188,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+189,189,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+190,190,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+191,191,15 - 24 years,Prefer not to answer,"25,001 - 50,000 rupees",Lyari,,,,,,,,,,,,,,,,,,,
+192,192,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+193,193,15 - 24 years,Female,Prefer not to answer,Saddar,,,,,,,,,,,,,,,,,,,
+194,194,15 - 24 years,Female,"100,001 - 125,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+195,195,15 - 24 years,Female,"75,001 - 100,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+196,196,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+197,197,15 - 24 years,Male,"75,001 - 100,000 rupees",Saddar,,,,,,,,,,,,,,,,,,,
+198,198,15 - 24 years,Male,"50,001 - 75,000 rupees",Mauripur,,,,,,,,,,,,,,,,,,,
+199,199,15 - 24 years,Female,"50,001 - 75,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+200,200,15 - 24 years,Male,"125,001 - 150,000 rupees",Saddar,,,,,,,,,,,,,,,,,,,
+201,201,15 - 24 years,Female,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
+202,202,15 - 24 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+203,203,15 - 24 years,Female,Prefer not to answer,North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+204,204,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+205,205,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+206,206,25 - 44 years,Male,"100,001 - 125,000 rupees",Landhi,,,,,,,,,,,,,,,,,,,
+207,207,15 - 24 years,Female,"25,001 - 50,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+208,208,15 - 24 years,Male,Prefer not to answer,Gulberg,,,,,,,,,,,,,,,,,,,
+209,209,15 - 24 years,Female,"75,001 - 100,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+210,210,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+211,211,15 - 24 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),,,,,,,,,,,,,,,,,,,
+212,212,15 - 24 years,Female,"100,001 - 125,000 rupees",Model Colony,,,,,,,,,,,,,,,,,,,
+213,213,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+214,214,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+215,215,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+216,216,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+217,217,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+218,218,Below 15 years,Female,,Garden,Clifton,Dosben le gay,G passand h q k wo bht beautiful hota ha,,,,,,,,,,,,,,,,
+219,219,15 - 24 years,Female,"125,001 - 150,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+220,220,15 - 24 years,Female,Prefer not to answer,Korangi Creek Cantonment,,,,,,,,,,,,,,,,,,,
+221,221,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+222,222,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+223,223,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+224,224,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+225,225,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+226,226,25 - 44 years,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+227,227,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+228,228,25 - 44 years,Male,Prefer not to answer,Shah Faisal,,,,,,,,,,,,,,,,,,,
+229,229,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+230,230,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+231,231,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+232,232,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+233,233,15 - 24 years,Female,"50,001 - 75,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+234,234,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+235,235,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+236,236,45 years and above,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+237,237,Below 15 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+238,238,45 years and above,Male,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+239,239,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+240,240,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+241,241,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+242,242,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+243,243,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+244,244,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+245,245,45 years and above,Female,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
+246,246,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+247,247,25 - 44 years,Male,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+248,248,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+249,249,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,,,,,,,,,,,,,,,,
+250,250,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+251,251,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+252,252,15 - 24 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+253,253,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
+254,254,25 - 44 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+255,255,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
+256,256,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+257,257,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+258,258,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+259,259,25 - 44 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+260,260,15 - 24 years,Prefer not to answer,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+261,261,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+262,262,45 years and above,Male,,Outside Karachi,,,,,,,,,,,,,,,,,,,
+263,263,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+264,264,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+265,265,25 - 44 years,Male,"25,001 - 50,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+266,266,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+267,267,25 - 44 years,Female,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+268,268,15 - 24 years,Female,Prefer not to answer,Bin Qasim,,,,,,,,,,,,,,,,,,,
+269,269,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+270,270,25 - 44 years,Male,"175,000 - 200,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+271,271,15 - 24 years,Female,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
+272,272,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+273,273,45 years and above,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+274,274,15 - 24 years,Female,"125,001 - 150,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
+275,275,15 - 24 years,Male,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+276,276,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+277,277,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+278,278,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+279,279,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+280,280,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+281,281,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+282,282,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+283,283,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+284,284,15 - 24 years,Female,"150,001 - 175,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+285,285,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+286,286,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
+287,287,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+288,288,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+289,289,15 - 24 years,Female,"150,001 - 175,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+290,290,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+291,291,25 - 44 years,Male,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+292,292,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
+293,293,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+294,294,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+295,295,25 - 44 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+296,296,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+297,297,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+298,298,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+299,299,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+300,300,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+301,301,15 - 24 years,Male,"175,000 - 200,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+302,302,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+303,303,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+304,304,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+305,305,25 - 44 years,Male,"50,001 - 75,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+306,306,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+307,307,25 - 44 years,Female,"100,001 - 125,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
+308,308,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+309,309,25 - 44 years,Female,"150,001 - 175,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+310,310,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+311,311,15 - 24 years,Prefer not to answer,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+312,312,25 - 44 years,Male,"50,001 - 75,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+313,313,25 - 44 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+314,314,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+315,315,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+316,316,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+317,317,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+318,318,25 - 44 years,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+319,319,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+320,320,15 - 24 years,Prefer not to answer,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+321,321,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+322,322,15 - 24 years,Male,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+323,323,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+324,324,15 - 24 years,Female,"200,001 and above",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+325,325,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+326,326,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+327,327,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+328,328,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+329,329,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+330,330,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+331,331,25 - 44 years,Male,"Up to 25,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+332,332,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+333,333,45 years and above,Male,Prefer not to answer,Gadap,,,,,,,,,,,,,,,,,,,
+334,334,15 - 24 years,Male,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+335,335,25 - 44 years,Male,"100,001 - 125,000 rupees",Civil Lines,,,,,,,,,,,,,,,,,,,
+336,336,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+337,337,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+338,338,15 - 24 years,Female,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+339,339,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+340,340,15 - 24 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+341,341,15 - 24 years,Male,"Up to 25,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+342,342,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+343,343,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+344,344,15 - 24 years,Male,"100,001 - 125,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+345,345,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+346,346,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+347,347,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+348,348,15 - 24 years,Female,"150,001 - 175,000 rupees",Korangi Creek Cantonment,,,,,,,,,,,,,,,,,,,
+349,349,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+350,350,25 - 44 years,Male,"50,001 - 75,000 rupees",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
+351,351,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+352,352,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+353,353,25 - 44 years,Male,"Up to 25,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+354,354,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+355,355,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+356,356,15 - 24 years,Female,"200,001 and above",Gulberg,,,,,,,,,,,,,,,,,,,
+357,357,25 - 44 years,Male,"125,001 - 150,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+358,358,25 - 44 years,Male,"100,001 - 125,000 rupees",Model Colony,,,,,,,,,,,,,,,,,,,
+359,359,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+360,360,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+361,361,25 - 44 years,Male,"200,001 and above",Bin Qasim,,,,,,,,,,,,,,,,,,,
+362,362,45 years and above,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+363,363,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,,,,,,,,,,,,,,,,,,,
+364,364,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+365,365,25 - 44 years,Male,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+366,366,25 - 44 years,Female,"Up to 25,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+367,367,15 - 24 years,Male,"Up to 25,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+368,368,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+369,369,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+370,370,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+371,371,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+372,372,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+373,373,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+374,374,25 - 44 years,Non-binary,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+375,375,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+376,376,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+377,377,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+378,378,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+379,379,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+380,380,15 - 24 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+381,381,45 years and above,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+382,382,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+383,383,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+384,384,15 - 24 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+385,385,15 - 24 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+386,386,15 - 24 years,Prefer not to answer,"75,001 - 100,000 rupees",Aram Bagh,,,,,,,,,,,,,,,,,,,
+387,387,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+388,388,15 - 24 years,Male,"150,001 - 175,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+389,389,15 - 24 years,Transgender,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+390,390,25 - 44 years,Female,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+391,391,25 - 44 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+392,392,25 - 44 years,Female,"175,000 - 200,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+393,393,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+394,394,15 - 24 years,Female,"175,000 - 200,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+395,395,15 - 24 years,Male,"125,001 - 150,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+396,396,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+397,397,15 - 24 years,Female,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+398,398,25 - 44 years,Female,"50,001 - 75,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+399,399,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+400,400,25 - 44 years,Male,"175,000 - 200,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+401,401,25 - 44 years,Male,"50,001 - 75,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
+402,402,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+403,403,25 - 44 years,Female,"100,001 - 125,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+404,404,15 - 24 years,Male,"175,000 - 200,000 rupees",Airport,,,,,,,,,,,,,,,,,,,
+405,405,25 - 44 years,Female,"125,001 - 150,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+406,406,15 - 24 years,Female,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
+407,407,15 - 24 years,Transgender,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
+408,408,25 - 44 years,Non-binary,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+409,409,15 - 24 years,Female,Prefer not to answer,Gulberg,,,,Yes,Afternoon,,Weekdays,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
+410,410,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,10:00am - 2:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+411,410dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
+412,410dupdup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
+413,411,15 - 24 years,Female,"50,001 - 75,000 rupees",Korangi,,,,Yes,Morning,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Fair,Family,No
+414,412,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+415,413,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,No,,Lack of security arrangements,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Poor,Poor,Friends,No
+416,414,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+416,414dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+417,415,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,No,,Lack of security arrangements,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Poor,Poor,Friends,No
+418,416,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+419,416dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+420,416dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+421,416dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+422,416dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+423,417,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Any time of the day,,Weekdays,2:00pm - 6:00pm,Less than an hour,Fair,Poor,Poor,Poor,Fair,Poor,Good,Poor,Friends,No
+424,418,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekends,6:00am - 10:00am,Less than an hour,Good,Good,Good,Good,Poor,Good,Fair,Fair,Friends,No
+425,419,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,No,,"Lots of people there are not good they stare, they make the place polluted ",Both,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+426,420,15 - 24 years,Female,Prefer not to answer,Nazimabad,,,,No,,Fear of harrasment,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Fair,Poor,Poor,Fair,Fair,Poor,Family,No
+427,420dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+428,420dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+429,420dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+430,421,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+430,421dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
+431,421dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+432,421dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+433,421dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+434,422,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,Yes,Afternoon,,Both,6:00am - 10:00am,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+434,422dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+434,422dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+434,422dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+435,423,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Afternoon,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+436,424,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,10:00am - 2:00pm,More than an hour,Fair,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Family,No
+437,425,15 - 24 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekdays,6:00am - 10:00am,Less than an hour,Poor,Fair,Fair,Fair,Poor,Poor,Fair,Fair,Friends,No
+438,425dup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+439,425dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+440,425dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+441,426,15 - 24 years,Female,"Up to 25,000 rupees",Gulzar-e-Hijri,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+442,426dup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+443,426dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+444,426dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+445,426dupdup,15 - 24 years,Female,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+446,427,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekdays,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Fair,Friends,No
+447,428,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
+447,428dup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+448,428dup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+449,428dupdup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+450,428dupdup,15 - 24 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+451,429,15 - 24 years,Female,"200,001 and above",Malir Cantonment,,,,No,,Lack of security arrangements,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
+452,430,15 - 24 years,Female,Prefer not to answer,Liaquatabad,,,,No,,Lack of lighting,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Good,Poor,Friends and family,No
+453,430dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+454,431,15 - 24 years,Female,Prefer not to answer,Faisal Cantonment,,,,No,,Fear of theft,Both,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+454,431dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+454,431dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+454,431dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+455,431dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+456,431dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+457,431dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+458,431dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+459,432,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Any time of the day,,Both,2:00am - 6:00am,More than an hour,Fair,Fair,Poor,Poor,Poor,Fair,Good,Poor,Friends,No
+460,433,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulberg,,,,No,,Fear of harrasment,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Fair,Poor,Poor,Poor,Good,Poor,Friends,No
+461,434,15 - 24 years,Female,"125,001 - 150,000 rupees",Ferozabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
+462,435,15 - 24 years,Male,"50,001 - 75,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
+463,436,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
+463,436dup,15 - 24 years,Female,"200,001 and above",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+464,437,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,Less than an hour,Poor,Poor,Fair,Poor,Poor,Poor,Good,Fair,Family,No
+465,438,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
+465,438dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+466,438dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
+467,438dupdup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,,,,,,,,,,,,
+468,439,15 - 24 years,Female,"200,001 and above",Nazimabad,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Alone,No
+469,440,15 - 24 years,Female,Prefer not to answer,Shah Faisal,,,,Yes,Morning,,Both,6:00am - 10:00am,Less than an hour,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Friends,No
+470,441,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Friends,No
+470,441dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+470,441dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,2:00am - 6:00am,,,,,,,,,,,
+471,442,15 - 24 years,Female,"150,001 - 175,000 rupees",Saddar,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+471,442dup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+472,442dup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
+473,442dupdup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
+474,442dupdup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
+475,442dupdup,15 - 24 years,Female,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
+476,443,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+477,443dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+478,443dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+479,443dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+480,444,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,Yes,Afternoon,,Weekdays,6:00am - 10:00am,Less than an hour,Good,Fair,Good,Fair,Fair,Fair,Good,Fair,Friends,No
+480,444dup,15 - 24 years,Female,"200,001 and above",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+481,445,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+482,445dup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+483,445dupdup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+484,446,15 - 24 years,Female,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+485,446dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+486,446dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+487,446dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+488,446dupdup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+489,447,15 - 24 years,Female,"50,001 - 75,000 rupees",Nazimabad,,,,Yes,Afternoon,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
+490,448,15 - 24 years,Female,"25,001 - 50,000 rupees",Gulzar-e-Hijri,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Good,Good,Good,Good,Good,Good,Good,Good,Friends,Yes
+491,449,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Fair,Friends,No
+491,449dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
+492,450,15 - 24 years,Male,"125,001 - 150,000 rupees",Ferozabad,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Good,Poor,Friends,No
+493,451,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Family,No
+494,452,15 - 24 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,Less than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
+494,452dup,15 - 24 years,Male,"200,001 and above",,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
+495,453,15 - 24 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,6:00am - 10:00am,Less than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
+495,453dup,15 - 24 years,Male,"50,001 - 75,000 rupees",,,,,,,,,2:00am - 6:00am,,,,,,,,,,,
+496,454,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Fair,Poor,Family,No
+496,454dup,15 - 24 years,Female,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+497,455,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Fair,Fair,Fair,Poor,Friends,No
+498,456,25 - 44 years,Female,"50,001 - 75,000 rupees",Jamshed Quarters,,,,Yes,Night,,Weekdays,10:00pm - 2:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Fair,Poor,Friends,No
+499,457,15 - 24 years,Female,Prefer not to answer,Karachi Cantonment,,,,No,,Fear of harrasment,Weekdays,10:00pm - 2:00am,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+500,458,15 - 24 years,Female,"50,001 - 75,000 rupees",Shah Faisal,,,,No,,Fear of harrasment,Weekdays,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
+501,459,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
+501,459dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+501,459dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+502,459dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+503,459dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+504,460,15 - 24 years,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,,No,,Lack of security arrangements,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Friends,No
+505,461,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,,Yes,Morning,,Both,10:00am - 2:00pm,More than an hour,Fair,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Friends,No
+505,461dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+505,461dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+506,462,15 - 24 years,Female,"125,001 - 150,000 rupees",Civil Lines,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,Less than an hour,Fair,Poor,Poor,Poor,Fair,Fair,Good,Fair,Family,No
+507,463,15 - 24 years,Male,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00am - 10:00am,More than an hour,Fair,Fair,Fair,Poor,Poor,Poor,Fair,Poor,Friends,No
+507,463dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+508,464,15 - 24 years,Female,"25,001 - 50,000 rupees",Jamshed Quarters,,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Fair,Fair,Fair,Family,No
+509,464dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+510,464dupdup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+511,465,15 - 24 years,Male,"200,001 and above",Airport,,,,Yes,Evening,,Both,6:00am - 10:00am,Less than an hour,Good,Fair,Poor,Poor,Fair,Good,Good,Poor,Friends,No
+512,466,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Fair,Family,No
+513,467,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Both,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+514,468,15 - 24 years,Male,Prefer not to answer,Civil Lines,,,,No,,Fear of theft,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+515,468dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+516,468dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+517,468dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+518,468dupdup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+519,469,15 - 24 years,Female,"50,001 - 75,000 rupees",Airport,,,,Yes,Evening,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Fair,Poor,Fair,Fair,Fair,Poor,Friends,No
+520,470,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Evening,,Both,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Alone,Yes
+520,470dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+521,471,15 - 24 years,Male,Prefer not to answer,Ferozabad,,,,Yes,Morning,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+522,472,25 - 44 years,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Good,Good,Fair,Fair,Fair,Good,Fair,Poor,Friends,No
+523,473,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Any time of the day,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Fair,Fair,Poor,Fair,Poor,Fair,Poor,Friends,No
+524,474,15 - 24 years,Male,"25,001 - 50,000 rupees",Clifton Cantonment,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,Less than an hour,Poor,Fair,Fair,Poor,Poor,Poor,Poor,Poor,Friends,No
+525,475,25 - 44 years,Male,"Up to 25,000 rupees",Clifton Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+526,476,15 - 24 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekdays,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Fair,Poor,Fair,Poor,Poor,Poor,Friends,No
+527,477,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Good,Fair,Fair,Poor,Fair,Good,Poor,Poor,Friends,No
+528,478,45 years and above,Male,"150,001 - 175,000 rupees",Nazimabad,,,,Yes,Night,,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Alone,Yes
+528,478dup,45 years and above,Male,"150,001 - 175,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+529,479,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+529,479dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+530,480,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+531,481,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Morning,,Weekdays,10:00am - 2:00pm,More than an hour,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Poor,Friends,No
+532,482,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,10:00am - 2:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+532,482dup,25 - 44 years,Female,"200,001 and above",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+532,482dup,25 - 44 years,Female,"200,001 and above",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+533,482dup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+534,482dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+535,482dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+536,482dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+537,482dupdup,25 - 44 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+538,483,15 - 24 years,Female,Prefer not to answer,Jamshed Quarters,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Fair,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+539,483dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+540,484,25 - 44 years,Male,"50,001 - 75,000 rupees",Jamshed Quarters,,,,No,,Fear of harrasment,Both,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
+541,485,15 - 24 years,Male,Prefer not to answer,Clifton Cantonment,,,,No,,Fear of theft,Weekdays,10:00am - 2:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,Yes
+542,485dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+543,486,15 - 24 years,Male,Prefer not to answer,Baldia,,,,No,,Nothing,Weekends,6:00pm - 10:00pm,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+544,487,15 - 24 years,Male,"Up to 25,000 rupees",Baldia,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Good,Poor,Friends,No
+545,488,25 - 44 years,Female,Prefer not to answer,Nazimabad,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+546,489,15 - 24 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+547,490,25 - 44 years,Male,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+548,490dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+549,491,15 - 24 years,Female,"125,001 - 150,000 rupees",Nazimabad,,,,Yes,Morning,,Weekends,2:00am - 6:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+550,492,15 - 24 years,Female,"25,001 - 50,000 rupees",Orangi,,,,No,,Fear of harrasment,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+551,492dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+552,493,15 - 24 years,Male,"25,001 - 50,000 rupees",Orangi,,,,Yes,Any time of the day,,Both,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+553,494,45 years and above,Male,"25,001 - 50,000 rupees",Garden,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+554,495,15 - 24 years,Male,Prefer not to answer,Saddar,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+555,496,45 years and above,Transgender,"Up to 25,000 rupees",Civil Lines,,,,No,,Fear of theft,Both,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+556,496dup,45 years and above,Transgender,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+557,497,25 - 44 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Hygiene,Weekends,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+558,498,15 - 24 years,Male,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,Yes,Afternoon,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+559,499,Below 15 years,Female,Prefer not to answer,Civil Lines,,,,Yes,Evening,,Weekdays,6:00pm - 10:00pm,More than an hour,Good,Poor,Fair,Poor,Fair,Poor,Good,Fair,Family,No
+560,500,15 - 24 years,Female,Prefer not to answer,Harbour,,,,No,,Fear of harrasment,Both,2:00pm - 6:00pm,Less than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+561,500dup,15 - 24 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+562,501,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Fair,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Friends,No
+563,502,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+563,502dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+564,503,15 - 24 years,Female,Prefer not to answer,New Karachi Town,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+565,504,25 - 44 years,Female,Prefer not to answer,Garden,,,,Yes,Any time of the day,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Good,Poor,Family,No
+566,505,15 - 24 years,Male,"Up to 25,000 rupees",New Karachi Town,,,,Yes,Any time of the day,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Good,Good,Poor,Family,No
+567,506,45 years and above,Male,Prefer not to answer,Liaquatabad,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,Yes
+568,507,45 years and above,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+569,508,15 - 24 years,Male,Prefer not to answer,Malir Cantonment,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
+569,508dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+570,509,45 years and above,Female,Prefer not to answer,New Karachi Town,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Good,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
+570,509dup,45 years and above,Female,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+571,510,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+572,511,15 - 24 years,Female,"200,001 and above",Nazimabad,,,,Yes,Morning,,Weekends,10:00am - 2:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+573,512,25 - 44 years,Female,"125,001 - 150,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Both,6:00pm - 10:00pm,More than an hour,Fair,Fair,Fair,Poor,Fair,Fair,Good,Fair,Family,No
+574,513,15 - 24 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Both,6:00am - 10:00am,Less than an hour,Fair,Poor,Fair,Poor,Fair,Fair,Good,Fair,Friends,No
+574,513dup,15 - 24 years,Female,"50,001 - 75,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+575,513dup,15 - 24 years,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+576,513dupdup,15 - 24 years,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+577,514,45 years and above,Female,"50,001 - 75,000 rupees",Faisal Cantonment,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Family,No
+578,515,15 - 24 years,Female,Prefer not to answer,Gulshan-e-Iqbal,,,,Yes,Morning,,Weekends,2:00pm - 6:00pm,Less than an hour,Fair,Fair,Fair,Poor,Poor,Poor,Fair,Poor,Family,No
+579,516,25 - 44 years,Female,"200,001 and above",Gulberg,,,,,,,,,,,,,,,,,,,
+580,517,25 - 44 years,Female,"75,001 - 100,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+581,518,25 - 44 years,Female,"75,001 - 100,000 rupees",,,,,,,,,,,,,,,,,,,,
+582,519,25 - 44 years,Female,"175,000 - 200,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+583,520,25 - 44 years,Female,"50,001 - 75,000 rupees",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
+584,521,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+585,522,25 - 44 years,Female,"75,001 - 100,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+586,523,15 - 24 years,Female,"200,001 and above",Nazimabad,,,,,,,,,,,,,,,,,,,
+587,524,25 - 44 years,Female,"150,001 - 175,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+588,525,25 - 44 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+589,526,15 - 24 years,Female,"175,000 - 200,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+590,527,25 - 44 years,Female,"200,001 and above",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+591,528,15 - 24 years,Female,"100,001 - 125,000 rupees",Jamshed Quarters,,,,,,,,,,,,,,,,,,,
+592,529,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+593,530,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+594,531,15 - 24 years,Male,"Up to 25,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+595,532,25 - 44 years,Male,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
+596,533,15 - 24 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+597,534,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+598,535,15 - 24 years,Female,"200,001 and above",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+599,536,15 - 24 years,Female,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+600,537,25 - 44 years,Female,"200,001 and above",Karachi Cantonment,,,,,,,,,,,,,,,,,,,
+601,538,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+602,539,15 - 24 years,Male,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+603,540,25 - 44 years,Male,"75,001 - 100,000 rupees",Faisal Cantonment,,,,,,,,,,,,,,,,,,,
+604,541,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+605,542,25 - 44 years,Male,"25,001 - 50,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+606,543,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+607,544,25 - 44 years,Female,Prefer not to answer,Gulberg,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+607,544dup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+608,545,25 - 44 years,Male,Prefer not to answer,Liaquatabad,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+609,546,25 - 44 years,Male,"25,001 - 50,000 rupees",Faisal Cantonment,,,,Yes,Morning,,Weekdays,6:00pm - 10:00pm,Less than an hour,Good,Poor,Poor,Poor,Good,Poor,Good,Poor,Family,No
+610,547,25 - 44 years,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Poor,Family,Yes
+611,548,25 - 44 years,Male,"25,001 - 50,000 rupees",Malir Cantonment,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+612,548dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+613,548dupdup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+614,549,25 - 44 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Good,Poor,Friends,Yes
+614,549dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+615,549dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+616,550,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Fear of harrasment,Weekends,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+617,551,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+618,552,25 - 44 years,Female,Prefer not to answer,Shah Faisal,,,,No,,Fear of theft,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends and Family,No
+619,552dup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+620,552dupdup,25 - 44 years,Female,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+621,553,45 years and above,Male,"50,001 - 75,000 rupees",Clifton Cantonment,,,,Yes,Evening,,Both,6:00pm - 10:00pm,More than an hour,Poor,Poor,Fair,Poor,Poor,Fair,Poor,Poor,Family,No
+622,554,15 - 24 years,Male,"Up to 25,000 rupees",Nazimabad,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+623,555,25 - 44 years,Female,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,No,,Fear of theft,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+624,556,45 years and above,Prefer not to answer,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+625,557,25 - 44 years,Male,"Up to 25,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Good,Poor,Fair,Poor,Alone,Yes
+625,557dup,25 - 44 years,Male,"Up to 25,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+626,558,25 - 44 years,Female,"25,001 - 50,000 rupees",Sindh Industrial Trading Estate (SITE),,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Poor,Family,No
+627,559,15 - 24 years,Male,"25,001 - 50,000 rupees",Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Weekends,6:00pm - 10:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Friends,No
+628,560,15 - 24 years,Male,"Up to 25,000 rupees",Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+629,561,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Good,Poor,Fair,Poor,Family,No
+630,562,15 - 24 years,Female,"25,001 - 50,000 rupees",New Karachi Town,,,,No,,Lack of security arrangements,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+631,563,25 - 44 years,Female,Prefer not to answer,Outside Karachi,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+632,564,25 - 44 years,Male,"25,001 - 50,000 rupees",Outside Karachi,,,,Yes,Morning,,Weekends,10:00am - 2:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Pets,No
+632,564dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+633,565,25 - 44 years,Male,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Morning,,Weekdays,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+633,565dup,25 - 44 years,Male,"50,001 - 75,000 rupees",,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+634,566,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Family,No
+634,566dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+634,566dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+635,567,15 - 24 years,Male,"25,001 - 50,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Fair,Good,Family,No
+636,568,15 - 24 years,Male,"25,001 - 50,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Fair,Good,Family,No
+637,569,15 - 24 years,Male,"25,001 - 50,000 rupees",Shah Faisal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Fair,Poor,Fair,Good,Family,No
+638,570,15 - 24 years,Female,Prefer not to answer,Sindh Industrial Trading Estate (SITE),,,,Yes,Evening,,Weekdays,2:00pm - 6:00pm,More than an hour,Fair,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Family,No
+639,571,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,No,,Fear of theft,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Poor,Family,No
+640,571dup,25 - 44 years,Male,"Up to 25,000 rupees",,,,,,,,,,,,,,,,,,,,
+641,572,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi Creek Cantonment,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+642,573,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,No,,Fear of theft,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+642,573dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+643,573dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,,,,,,,,,,,,
+644,574,25 - 44 years,Female,"50,001 - 75,000 rupees",Model Colony,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Fair,Poor,Fair,Fair,Poor,Poor,Family,No
+645,575,15 - 24 years,Male,"25,001 - 50,000 rupees",Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Fair,Poor,Fair,Poor,Poor,Poor,Fair,Poor,Friends,No
+646,576,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Fair,Poor,Family,No
+646,576dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+647,577,25 - 44 years,Female,Prefer not to answer,Malir Cantonment,,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+648,578,45 years and above,Male,"125,001 - 150,000 rupees",Jamshed Quarters,,,,No,,Reckless speeding by vehicles,Weekdays,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Family,No
+649,579,45 years and above,Male,"25,001 - 50,000 rupees",Landhi,,,,No,,Fear of harrasment,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+650,579dup,45 years and above,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+651,579dupdup,45 years and above,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+652,580,25 - 44 years,Female,"25,001 - 50,000 rupees",Outside Karachi,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+653,581,25 - 44 years,Female,"Up to 25,000 rupees",Korangi,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+654,582,25 - 44 years,Male,"25,001 - 50,000 rupees",Orangi,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Good,Poor,Family,No
+655,583,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Fair,Poor,Fair,Poor,Poor,Friends,No
+656,584,45 years and above,Male,"50,001 - 75,000 rupees",Shah Faisal,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,Less than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+657,584dup,45 years and above,Male,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+658,584dupdup,45 years and above,Male,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+659,585,25 - 44 years,Female,"25,001 - 50,000 rupees",Landhi,,,,No,,Lack of security arrangements,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Fair,Poor,Good,Poor,Poor,Poor,Family,Yes
+660,586,15 - 24 years,Female,"25,001 - 50,000 rupees",Malir Cantonment,,,,Yes,Evening,,Both,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+660,586dup,15 - 24 years,Female,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+661,587,45 years and above,Female,"50,001 - 75,000 rupees",Malir Cantonment,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Family,No
+662,587dup,45 years and above,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+663,587dupdup,45 years and above,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+664,587dupdup,45 years and above,Female,"50,001 - 75,000 rupees",,,,,,,,,,,,,,,,,,,,
+665,588,45 years and above,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+666,589,25 - 44 years,Female,"75,001 - 100,000 rupees",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+667,590,15 - 24 years,Female,"200,001 and above",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+668,591,25 - 44 years,Transgender,"25,001 - 50,000 rupees",Shah Faisal,,,,,,,,,,,,,,,,,,,
+669,592,45 years and above,Male,"25,001 - 50,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
+670,593,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+671,594,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+672,595,25 - 44 years,Male,"125,001 - 150,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+673,596,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+674,597,45 years and above,Male,"125,001 - 150,000 rupees",North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+675,598,15 - 24 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+676,599,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+677,600,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+678,601,25 - 44 years,Male,"75,001 - 100,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+679,602,25 - 44 years,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
+680,603,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+681,604,45 years and above,Male,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+682,605,25 - 44 years,Male,"150,001 - 175,000 rupees",Airport,,,,,,,,,,,,,,,,,,,
+683,606,25 - 44 years,Male,"75,001 - 100,000 rupees",Nazimabad,,,,,,,,,,,,,,,,,,,
+684,607,45 years and above,Male,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+685,608,25 - 44 years,Female,"200,001 and above",Malir Cantonment,,,,,,,,,,,,,,,,,,,
+686,609,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
+687,610,25 - 44 years,Female,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+688,611,25 - 44 years,Male,"25,001 - 50,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+689,612,25 - 44 years,Male,Prefer not to answer,Airport,,,,,,,,,,,,,,,,,,,
+690,613,25 - 44 years,Male,Prefer not to answer,Ferozabad,,,,,,,,,,,,,,,,,,,
+691,614,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+692,615,25 - 44 years,Male,"175,000 - 200,000 rupees",Ferozabad,,,,,,,,,,,,,,,,,,,
+693,616,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+694,617,45 years and above,Female,"200,001 and above",Ferozabad,,,,,,,,,,,,,,,,,,,
+695,618,25 - 44 years,Male,Prefer not to answer,North Nazimabad,,,,,,,,,,,,,,,,,,,
+696,619,25 - 44 years,Male,"150,001 - 175,000 rupees",,,,,,,,,,,,,,,,,,,,
+697,620,45 years and above,Female,Prefer not to answer,North Nazimabad Town,,,,,,,,,,,,,,,,,,,
+698,621,25 - 44 years,Male,"50,001 - 75,000 rupees",Sindh Industrial Trading Estate (SITE),,,,,,,,,,,,,,,,,,,
+699,622,25 - 44 years,Female,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+700,623,15 - 24 years,Female,"200,001 and above",Garden,,,,,,,,,,,,,,,,,,,
+701,624,25 - 44 years,Male,"100,001 - 125,000 rupees",Gulberg,,,,,,,,,,,,,,,,,,,
+702,625,25 - 44 years,Female,"150,001 - 175,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+703,626,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+704,627,25 - 44 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+705,628,15 - 24 years,Male,"125,001 - 150,000 rupees",North Nazimabad,,,,,,,,,,,,,,,,,,,
+706,629,15 - 24 years,Female,"200,001 and above",Civil Lines,,,,,,,,,,,,,,,,,,,
+707,630,15 - 24 years,Male,"200,001 and above",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+708,631,25 - 44 years,Male,"150,001 - 175,000 rupees",Garden,,,,,,,,,,,,,,,,,,,
+709,632,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+710,633,25 - 44 years,Male,"100,001 - 125,000 rupees",Clifton Cantonment,,,,,,,,,,,,,,,,,,,
+711,634,25 - 44 years,Male,Prefer not to answer,Nazimabad,,,,,,,,,,,,,,,,,,,
+712,635,15 - 24 years,Male,"125,001 - 150,000 rupees",Garden,,,,Yes,Evening,,Weekends,6:00am - 10:00am,Less than an hour,Poor,Poor,Fair,Poor,Fair,Poor,Fair,Poor,Family,No
+712,635dup,15 - 24 years,Male,"125,001 - 150,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+713,636,45 years and above,Male,Prefer not to answer,Outside Karachi,,,,,,,,,,,,,,,,,,,
+714,637,25 - 44 years,Female,Prefer not to answer,Karachi Cantonment,,,,,,,,,,,,,,,,,,,
+715,638,25 - 44 years,Male,"150,001 - 175,000 rupees",Gulzar-e-Hijri,,,,,,,,,,,,,,,,,,,
+716,639,25 - 44 years,Female,"50,001 - 75,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Both,6:00am - 10:00am,More than an hour,Fair,Poor,Poor,Poor,Fair,Fair,Poor,Poor,Family,No
+716,639dup,25 - 44 years,Female,"50,001 - 75,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+717,640,15 - 24 years,Male,"Up to 25,000 rupees",Gulshan-e-Iqbal,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Fair,Poor,Friends,No
+718,641,25 - 44 years,Male,"Up to 25,000 rupees",Korangi,,,,Yes,Afternoon,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+719,642,25 - 44 years,Male,"25,001 - 50,000 rupees",Orangi,,,,Yes,Morning,,Weekdays,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Friends,No
+720,643,25 - 44 years,Female,Prefer not to answer,Korangi,,,,Yes,Evening,,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+721,644,25 - 44 years,Male,"25,001 - 50,000 rupees",Korangi,,,,No,,Fear of theft,Weekends,2:00pm - 6:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+721,644dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+722,644dup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+723,644dupdup,25 - 44 years,Male,"25,001 - 50,000 rupees",,,,,,,,,,,,,,,,,,,,
+724,645,25 - 44 years,Male,Prefer not to answer,Korangi,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+725,646,15 - 24 years,Female,Prefer not to answer,Clifton Cantonment,,,,Yes,Evening,,Weekends,6:00pm - 10:00pm,More than an hour,Poor,Fair,Poor,Poor,Poor,Poor,Fair,Poor,Family,No
+726,647,15 - 24 years,Male,Prefer not to answer,Gulshan-e-Iqbal,,,,No,,Lack of security arrangements,Both,6:00am - 10:00am,More than an hour,Poor,Poor,Poor,Poor,Fair,Poor,Poor,Poor,Friends,Yes
+726,647dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00am - 2:00pm,,,,,,,,,,,
+726,647dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,2:00pm - 6:00pm,,,,,,,,,,,
+726,647dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,6:00pm - 10:00pm,,,,,,,,,,,
+726,647dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
+726,647dup,15 - 24 years,Male,Prefer not to answer,,,,,,,,,2:00am - 6:00am,,,,,,,,,,,
+727,648,25 - 44 years,Male,Prefer not to answer,Clifton Cantonment,,,,Yes,Morning,,Weekends,6:00pm - 10:00pm,Less than an hour,Fair,Poor,Poor,Poor,Poor,Poor,Poor,Poor,Family,No
+727,648dup,25 - 44 years,Male,Prefer not to answer,,,,,,,,,10:00pm - 2:00am,,,,,,,,,,,
 728,649,15 - 24 years,Male,"150,001 - 175,000 rupees",Outside Karachi,,,,,,,,,,,,,,,,,,,
-729,650,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
-730,651,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+729,650,25 - 44 years,Male,"200,001 and above",Outside Karachi,,,,,,,,,,,,,,,,,,,
+730,651,25 - 44 years,Female,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,
 731,652,25 - 44 years,Male,"75,001 - 100,000 rupees",Malir Cantonment,,,,,,,,,,,,,,,,,,,
 732,653,25 - 44 years,Male,"200,001 and above",,,,,,,,,,,,,,,,,,,,
 733,654,25 - 44 years,Male,"200,001 and above",Gulshan-e-Iqbal,,,,,,,,,,,,,,,,,,,

@@ -137,19 +137,21 @@ acess=count(acess)
 new=count(new)
 
 # new.to_csv("out.csv")
+df_new = pd.DataFrame()
+for i in range(9,17):
+	str_ = new[0][i].columns[0]
+	df_new[str_.split("[")[1].split("]")[0]] = new[0][i]["count"]
+
+# st.table(pd.concat([new[0][9][["count"]] ,  new[0][10][["count"]] ]))
 
 st.title('On Experience at Clifton Beach')
 
-col4,col5= st.beta_columns([1,1])
+col4a= st.beta_columns([1])[0]
+with col4a:
+    col4a.markdown(exp[0][1].columns[0])
+    col4a.plotly_chart(treeplot(exp[0][1]))
 
-with col4:
-    col4.markdown(exp[0][1].columns[0])
-    col4.plotly_chart(countplot(exp[0][1]))
 
-with col5:
-    col5.markdown(exp[0][0].columns[0])
-    col5.plotly_chart(countplot(exp[0][0]))
-    
 col6,col7= st.beta_columns([1,1])
 with col6:
     col6.markdown(exp[0][2].columns[0])
@@ -158,6 +160,11 @@ with col6:
 with col7:
     col7.markdown(exp[0][3].columns[0])
     col7.plotly_chart(countplot(exp[0][3]))
+
+col5a= st.beta_columns([1])[0]
+with col5a:
+    col5a.markdown(exp[0][0].columns[0])
+    col5a.plotly_chart(treeplot(exp[0][0]))
 
 st.title("On Accessing Clifton Beach")
 col9,col10= st.beta_columns([1,1])
@@ -213,11 +220,11 @@ st.title('On Desires for Clifton Beach and the Coast')
 col7,col8= st.beta_columns([1,1])
 with col7:
     col7.markdown(desires[0][1].columns[0])
-    col7.plotly_chart(treeplot(desires[0][1],width=370,height=450))
+    col7.plotly_chart(countplot(desires[0][1],width=370,height=450))
 
 with col8:
     col8.markdown(desires[0][0].columns[0])
-    col8.plotly_chart(countplot(desires[0][0]))
+    col8.plotly_chart(treeplot(desires[0][0]))
 
 pd.set_option("display.max_colwidth", -1)
 
@@ -236,26 +243,26 @@ col1,col2= st.beta_columns([1,1])
 col3= st.beta_columns([1])[0]
 
 with col1:
-    col1.markdown(civic[0][0].columns[0])
-    col1.plotly_chart(countplot(civic[0][0]))
+    col1.markdown(civic[0][2].columns[0])
+    col1.plotly_chart(countplot(civic[0][2]))
 
 with col2:
     col2.markdown(civic[0][1].columns[0])
     col2.plotly_chart(countplot(civic[0][1]))
 
-col3.markdown(civic[0][2].columns[0])
-col3.plotly_chart(treeplot(civic[0][2]))
+col3.markdown(civic[0][0].columns[0])
+col3.plotly_chart(treeplot(civic[0][0]))
 
 
 st.title('New Questions')
 
 
 
-col2,col2i,col4= st.beta_columns([1,1,1])
+col1i,col2i,col4i= st.beta_columns([1,1,1])
 
-with col2:
-    col2.markdown(new[0][3].columns[0])
-    col2.plotly_chart(countplot(new[0][3] , width=200, height=400))
+with col1i:
+    col1i.markdown(new[0][3].columns[0])
+    col1i.plotly_chart(countplot(new[0][3] , width=200, height=400))
 
 # col1i,col2i= st.beta_columns([1,1])
 with col2i:
@@ -263,77 +270,30 @@ with col2i:
     col2i.plotly_chart(countplot(new[0][4]))
 
 
-with col4:
-    col4.markdown(new[0][6].columns[0])
-    col4.plotly_chart(countplot(new[0][6]))
+with col4i:
+    col4i.markdown(new[0][6].columns[0])
+    col4i.plotly_chart(countplot(new[0][6]))
 
-col3= st.beta_columns([1])[0]
+col3i= st.beta_columns([1])[0]
 
-with col3:
-    col3.markdown(new[0][5].columns[0])
-    col3.plotly_chart(treeplot(new[0][5]))
-
-
-col5,col6= st.beta_columns([1,1])
-with col5:
-    col5.markdown(new[0][7].columns[0])
-    col5.plotly_chart(countplot(new[0][7]))
-
-with col6:
-    col6.markdown(new[0][8].columns[0])
-    col6.plotly_chart(countplot(new[0][8]))
-
-#
-col7,col8= st.beta_columns([1,1])
-
-with col7:
-    col7.markdown(new[0][9].columns[0])
-    col7.plotly_chart(countplot(new[0][9]))
-
-with col8:
-    col8.markdown(new[0][10].columns[0])
-    col8.plotly_chart(countplot(new[0][10]))
-
-col9,col10= st.beta_columns([1,1])
-
-with col9:
-    col9.markdown(new[0][11].columns[0])
-    col9.plotly_chart(countplot(new[0][11]))
-
-with col10:
-    col10.markdown(new[0][12].columns[0])
-    col10.plotly_chart(countplot(new[0][12]))
-
-# col11,col12= st.beta_columns([1,1])
-
-# with col11:
-#     col11.markdown(new[0][11].columns[0])
-#     col11.plotly_chart(countplot(new[0][11]))
-
-# with col12:
-#     col12.markdown(new[0][12].columns[0])
-#     col12.plotly_chart(countplot(new[0][12]))
+with col3i:
+    col3i.markdown(new[0][5].columns[0])
+    col3i.plotly_chart(treeplot(new[0][5]))
 
 
-col11,col12= st.beta_columns([1,1])
+col5i,col6i= st.beta_columns([1,1])
+with col5i:
+    col5i.markdown(new[0][7].columns[0])
+    col5i.plotly_chart(countplot(new[0][7]))
 
-with col11:
-    col11.markdown(new[0][13].columns[0])
-    col11.plotly_chart(countplot(new[0][13]))
+with col6i:
+    col6i.markdown(new[0][8].columns[0])
+    col6i.plotly_chart(countplot(new[0][8]))
 
-with col12:
-    col12.markdown(new[0][14].columns[0])
-    col12.plotly_chart(countplot(new[0][14]))
 
-col13,col14= st.beta_columns([1,1])
-
-with col13:
-    col13.markdown(new[0][15].columns[0])
-    col13.plotly_chart(countplot(new[0][15]))
-
-with col14:
-    col14.markdown(new[0][16].columns[0])
-    col14.plotly_chart(countplot(new[0][16]))
+st.markdown("How do you rate these facilities?")
+df_new.index = ["Poor","Fair","Good"]
+st.table(df_new)
 
 col15,col16= st.beta_columns([1,1])
 
